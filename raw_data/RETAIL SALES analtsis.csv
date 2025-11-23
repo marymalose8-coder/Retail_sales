@@ -1,0 +1,968 @@
+NUMBER_OF_SALES,NUMBER_OF_CUSTOMER,PURCHASE_DATE,DAY_NAME,MONTH_NAME,DAY_OF_MONTH,AGE_BUCKETS,SPEND_BUCKETS,UNITS_SOLD,TOTAL_REVENUE,PRODUCT_CATEGORY,GENDER
+1,1,2023-11-24,Fri,Nov,24,Adult,Med Spend,3,150,Beauty,Male
+1,1,2023-02-27,Mon,Feb,27,Youth Adult,High Spend,2,1000,Clothing,Female
+2,2,2023-01-13,Fri,Jan,13,Senior,Low Spend,5,130,Electronics,Male
+1,1,2023-05-21,Sun,May,21,Adult,High Spend,1,500,Clothing,Male
+1,1,2023-05-06,Sat,May,6,Youth Adult,Low Spend,2,100,Beauty,Male
+1,1,2023-04-25,Tue,Apr,25,Senior,Low Spend,1,30,Beauty,Female
+1,1,2023-02-22,Wed,Feb,22,Youth Adult,Low Spend,4,100,Electronics,Male
+1,1,2023-12-13,Wed,Dec,13,Senior,High Spend,2,600,Electronics,Male
+1,1,2023-10-07,Sat,Oct,7,Senior,Med Spend,4,200,Clothing,Female
+1,1,2023-02-14,Tue,Feb,14,Youth Adult,Low Spend,2,100,Clothing,Male
+1,1,2023-01-17,Tue,Jan,17,Senior,Med Spend,4,120,Clothing,Male
+1,1,2023-01-16,Mon,Jan,16,Senior,High Spend,4,2000,Electronics,Female
+2,2,2023-02-17,Fri,Feb,17,Youth Adult,High Spend,6,2400,Clothing,Male
+1,1,2023-09-16,Sat,Sep,16,Senior,Low Spend,2,50,Clothing,Female
+1,1,2023-11-29,Wed,Nov,29,Senior,High Spend,1,300,Clothing,Female
+1,1,2023-10-07,Sat,Oct,7,Youth Adult,High Spend,2,1000,Electronics,Female
+1,1,2023-04-23,Sun,Apr,23,Senior,High Spend,1,500,Beauty,Female
+1,1,2023-01-04,Wed,Jan,4,Youth Adult,Low Spend,3,90,Beauty,Male
+1,1,2023-06-24,Sat,Jun,24,Senior,High Spend,3,900,Beauty,Male
+1,1,2023-07-03,Mon,Jul,3,Senior,Low Spend,1,30,Electronics,Female
+2,2,2023-05-16,Tue,May,16,Senior,High Spend,7,2900,Electronics,Male
+1,1,2023-12-27,Wed,Dec,27,Youth,Low Spend,2,100,Beauty,Male
+1,1,2023-01-29,Sun,Jan,29,Adult,High Spend,2,600,Clothing,Male
+1,1,2023-05-09,Tue,May,9,Youth,Low Spend,2,60,Clothing,Male
+1,1,2023-04-30,Sun,Apr,30,Senior,Low Spend,2,50,Electronics,Female
+1,1,2023-02-10,Fri,Feb,10,Adult,High Spend,3,1500,Electronics,Female
+1,1,2023-08-21,Mon,Aug,21,Youth Adult,Low Spend,3,90,Electronics,Male
+1,1,2023-05-17,Wed,May,17,Adult,Low Spend,1,50,Electronics,Male
+1,1,2023-05-18,Thu,May,18,Senior,Low Spend,1,50,Clothing,Female
+1,1,2023-12-15,Fri,Dec,15,Adult,High Spend,4,2000,Beauty,Male
+1,1,2023-02-04,Sat,Feb,4,Senior,High Spend,2,1000,Beauty,Female
+3,3,2023-08-08,Tue,Aug,8,Senior,Low Spend,5,185,Clothing,Male
+1,1,2023-08-05,Sat,Aug,5,Adult,Low Spend,1,30,Electronics,Male
+1,1,2023-04-28,Fri,Apr,28,Senior,Low Spend,2,50,Beauty,Female
+2,2,2023-05-23,Tue,May,23,Senior,High Spend,6,1800,Electronics,Female
+1,1,2023-02-06,Mon,Feb,6,Adult,Med Spend,3,150,Clothing,Male
+1,1,2023-12-02,Sat,Dec,2,Adult,High Spend,3,1500,Clothing,Male
+1,1,2023-09-08,Fri,Sep,8,Senior,High Spend,3,900,Beauty,Female
+1,1,2023-10-24,Tue,Oct,24,Senior,Low Spend,1,25,Clothing,Male
+1,1,2023-05-31,Wed,May,31,Youth Adult,High Spend,3,900,Clothing,Female
+1,1,2023-07-14,Fri,Jul,14,Senior,Low Spend,4,100,Beauty,Female
+1,1,2023-04-18,Tue,Apr,18,Adult,High Spend,1,300,Beauty,Male
+1,1,2023-03-12,Sun,Mar,12,Senior,High Spend,1,500,Clothing,Female
+1,1,2023-03-22,Wed,Mar,22,Senior,High Spend,2,1000,Beauty,Male
+1,1,2023-06-11,Sun,Jun,11,Youth Adult,High Spend,3,900,Clothing,Male
+1,1,2023-02-13,Mon,Feb,13,Adult,High Spend,3,1500,Beauty,Male
+1,1,2023-12-17,Sun,Dec,17,Senior,High Spend,4,1200,Electronics,Female
+1,1,2023-03-13,Mon,Mar,13,Senior,Low Spend,2,50,Clothing,Male
+1,1,2023-04-22,Sat,Apr,22,Youth Adult,Low Spend,4,100,Clothing,Female
+1,1,2023-04-12,Wed,Apr,12,Adult,Med Spend,4,120,Clothing,Female
+1,1,2023-11-24,Fri,Nov,24,Senior,High Spend,3,900,Clothing,Female
+2,2,2023-10-09,Mon,Oct,9,Senior,Low Spend,3,75,Electronics,Male
+1,1,2023-10-23,Mon,Oct,23,Youth Adult,Med Spend,3,150,Beauty,Male
+1,1,2023-07-25,Tue,Jul,25,Youth Adult,High Spend,1,500,Electronics,Female
+1,1,2023-01-30,Mon,Jan,30,Senior,Low Spend,1,50,Beauty,Male
+1,1,2023-01-23,Mon,Jan,23,Senior,High Spend,2,1000,Electronics,Female
+1,1,2023-01-10,Tue,Jan,10,Adult,Med Spend,4,200,Electronics,Male
+1,1,2023-12-04,Mon,Dec,4,Adult,Low Spend,1,50,Clothing,Female
+1,1,2023-10-12,Thu,Oct,12,Youth Adult,Low Spend,1,25,Beauty,Female
+1,1,2023-10-17,Tue,Oct,17,Youth Adult,Low Spend,3,75,Beauty,Male
+1,1,2023-07-31,Mon,Jul,31,Senior,High Spend,3,1500,Beauty,Female
+1,1,2023-10-13,Fri,Oct,13,Senior,Low Spend,4,100,Electronics,Male
+1,1,2023-10-02,Mon,Oct,2,Youth Adult,Low Spend,3,75,Beauty,Male
+2,2,2023-11-18,Sat,Nov,18,Senior,Low Spend,5,130,Beauty,Female
+1,1,2023-08-05,Sat,Aug,5,Youth Adult,High Spend,3,1500,Electronics,Male
+1,1,2023-10-29,Sun,Oct,29,Adult,High Spend,3,900,Beauty,Female
+1,1,2023-02-21,Tue,Feb,21,Senior,High Spend,1,300,Clothing,Female
+1,1,2023-11-24,Fri,Nov,24,Adult,Low Spend,2,60,Clothing,Female
+1,1,2023-08-11,Fri,Aug,11,Senior,Low Spend,2,100,Clothing,Female
+1,1,2023-08-05,Sat,Aug,5,Senior,High Spend,3,900,Beauty,Female
+1,1,2023-10-15,Sun,Oct,15,Youth Adult,Med Spend,4,200,Electronics,Female
+2,2,2023-04-12,Wed,Apr,12,Adult,High Spend,3,1300,Beauty,Female
+1,1,2023-11-05,Sun,Nov,5,Youth Adult,High Spend,3,900,Clothing,Male
+1,1,2023-12-26,Tue,Dec,26,Senior,Low Spend,1,50,Beauty,Female
+1,1,2023-12-10,Sun,Dec,10,Senior,Low Spend,2,60,Clothing,Female
+1,1,2023-10-15,Sun,Oct,15,Youth,Low Spend,2,100,Clothing,Male
+1,1,2023-10-01,Sun,Oct,1,Senior,High Spend,4,2000,Electronics,Female
+1,1,2023-07-14,Fri,Jul,14,Adult,High Spend,4,2000,Beauty,Female
+1,1,2023-08-23,Wed,Aug,23,Youth Adult,Low Spend,1,30,Clothing,Female
+1,1,2023-09-10,Sun,Sep,10,Senior,Med Spend,4,200,Electronics,Male
+1,1,2023-01-25,Wed,Jan,25,Senior,Low Spend,1,50,Electronics,Male
+1,1,2023-08-24,Thu,Aug,24,Youth Adult,Low Spend,3,75,Beauty,Female
+1,1,2023-11-06,Mon,Nov,6,Adult,High Spend,3,1500,Beauty,Female
+1,1,2023-01-28,Sat,Jan,28,Senior,High Spend,3,900,Clothing,Male
+1,1,2023-02-05,Sun,Feb,5,Senior,High Spend,4,1200,Electronics,Female
+1,1,2023-05-23,Tue,May,23,Youth,Low Spend,3,75,Beauty,Female
+1,1,2023-01-24,Tue,Jan,24,Senior,Low Spend,4,100,Clothing,Male
+1,1,2023-11-26,Sun,Nov,26,Senior,High Spend,3,1500,Clothing,Male
+1,1,2023-12-24,Sun,Dec,24,Senior,Med Spend,3,150,Clothing,Female
+1,1,2023-07-14,Fri,Jul,14,Senior,High Spend,1,300,Clothing,Female
+1,1,2023-05-07,Sun,May,7,Senior,Low Spend,1,50,Beauty,Male
+1,1,2023-05-23,Tue,May,23,Senior,High Spend,4,1200,Electronics,Male
+1,1,2023-02-19,Sun,Feb,19,Youth Adult,Low Spend,1,25,Clothing,Female
+1,1,2023-10-10,Tue,Oct,10,Adult,Med Spend,4,120,Beauty,Male
+1,1,2023-11-13,Mon,Nov,13,Youth,High Spend,4,1200,Clothing,Male
+1,1,2023-05-29,Mon,May,29,Senior,High Spend,4,1200,Beauty,Female
+1,1,2023-07-01,Sat,Jul,1,Senior,High Spend,3,1500,Clothing,Female
+1,1,2023-08-18,Fri,Aug,18,Senior,Low Spend,1,30,Electronics,Female
+1,1,2023-02-05,Sun,Feb,5,Senior,Low Spend,2,50,Electronics,Male
+1,1,2023-12-16,Sat,Dec,16,Senior,Low Spend,2,100,Electronics,Male
+1,1,2023-05-06,Sat,May,6,Senior,Low Spend,1,30,Electronics,Female
+2,2,2023-08-25,Fri,Aug,25,Senior,Med Spend,8,320,Electronics,Female
+1,1,2023-04-19,Wed,Apr,19,Youth Adult,Low Spend,3,75,Beauty,Female
+1,1,2023-04-19,Wed,Apr,19,Adult,High Spend,3,1500,Electronics,Female
+1,1,2023-11-02,Thu,Nov,2,Youth Adult,Low Spend,1,50,Electronics,Female
+1,1,2023-01-06,Fri,Jan,6,Senior,Med Spend,4,120,Electronics,Female
+1,1,2023-03-24,Fri,Mar,24,Senior,Low Spend,2,100,Beauty,Male
+1,1,2023-10-18,Wed,Oct,18,Senior,Low Spend,1,25,Beauty,Male
+1,1,2023-12-29,Fri,Dec,29,Senior,High Spend,2,600,Beauty,Female
+1,1,2023-10-23,Mon,Oct,23,Senior,Low Spend,1,50,Electronics,Male
+2,2,2023-09-22,Fri,Sep,22,Senior,Low Spend,4,140,Beauty,Male
+1,1,2023-10-29,Sun,Oct,29,Senior,Low Spend,1,50,Clothing,Female
+1,1,2023-02-06,Mon,Feb,6,Senior,Low Spend,1,25,Beauty,Female
+1,1,2023-03-23,Thu,Mar,23,Senior,Med Spend,4,200,Clothing,Male
+1,1,2023-12-15,Fri,Dec,15,Youth Adult,Low Spend,1,50,Clothing,Male
+1,1,2023-02-06,Mon,Feb,6,Youth Adult,High Spend,1,300,Beauty,Female
+1,1,2023-04-27,Thu,Apr,27,Senior,Low Spend,1,30,Electronics,Female
+1,1,2023-03-05,Sun,Mar,5,Adult,High Spend,1,300,Beauty,Female
+1,1,2023-05-15,Mon,May,15,Adult,Low Spend,2,60,Electronics,Female
+1,1,2023-10-02,Mon,Oct,2,Senior,High Spend,3,900,Electronics,Male
+1,1,2023-09-17,Sun,Sep,17,Senior,Med Spend,3,150,Clothing,Female
+1,1,2023-10-20,Fri,Oct,20,Youth Adult,Low Spend,1,50,Clothing,Male
+1,1,2023-03-29,Wed,Mar,29,Senior,High Spend,1,500,Clothing,Male
+1,1,2023-11-25,Sat,Nov,25,Senior,Low Spend,4,100,Clothing,Female
+1,1,2023-05-16,Tue,May,16,Youth Adult,High Spend,4,2000,Electronics,Female
+1,1,2023-11-17,Fri,Nov,17,Youth,High Spend,3,1500,Beauty,Male
+1,1,2023-02-01,Wed,Feb,1,Youth Adult,High Spend,4,2000,Clothing,Male
+1,1,2023-02-25,Sat,Feb,25,Senior,Low Spend,2,100,Electronics,Female
+1,1,2023-03-20,Mon,Mar,20,Adult,Low Spend,4,100,Electronics,Female
+1,1,2023-03-03,Fri,Mar,3,Senior,High Spend,1,500,Beauty,Male
+1,1,2023-04-23,Sun,Apr,23,Senior,Low Spend,1,25,Beauty,Male
+1,1,2023-06-19,Mon,Jun,19,Adult,High Spend,3,1500,Electronics,Male
+1,1,2023-04-08,Sat,Apr,8,Senior,High Spend,2,1000,Clothing,Male
+1,1,2023-05-23,Tue,May,23,Youth Adult,High Spend,4,2000,Beauty,Female
+1,1,2023-02-08,Wed,Feb,8,Senior,Med Spend,4,200,Clothing,Male
+1,1,2023-12-23,Sat,Dec,23,Youth Adult,Low Spend,1,25,Beauty,Female
+1,1,2023-09-29,Fri,Sep,29,Senior,Med Spend,3,150,Electronics,Male
+1,1,2023-12-12,Tue,Dec,12,Senior,Med Spend,3,150,Beauty,Female
+1,1,2023-10-24,Tue,Oct,24,Senior,High Spend,4,2000,Clothing,Female
+1,1,2023-02-11,Sat,Feb,11,Senior,High Spend,2,1000,Clothing,Male
+1,1,2023-03-09,Thu,Mar,9,Senior,Low Spend,4,100,Clothing,Male
+1,1,2023-12-19,Tue,Dec,19,Senior,Low Spend,2,100,Clothing,Female
+1,1,2023-11-01,Wed,Nov,1,Youth Adult,Med Spend,4,200,Beauty,Female
+1,1,2023-07-05,Wed,Jul,5,Senior,Low Spend,1,50,Clothing,Male
+1,1,2023-03-25,Sat,Mar,25,Youth Adult,Low Spend,2,100,Electronics,Female
+1,1,2023-03-15,Wed,Mar,15,Youth Adult,High Spend,2,1000,Electronics,Male
+1,1,2023-03-23,Thu,Mar,23,Senior,Low Spend,2,100,Electronics,Female
+1,1,2023-06-22,Thu,Jun,22,Senior,Low Spend,1,50,Beauty,Male
+1,1,2023-12-16,Sat,Dec,16,Senior,High Spend,2,1000,Electronics,Male
+1,1,2023-11-03,Fri,Nov,3,Youth Adult,High Spend,4,1200,Electronics,Male
+1,1,2023-09-30,Sat,Sep,30,Adult,High Spend,3,900,Clothing,Female
+1,1,2023-09-01,Fri,Sep,1,Youth Adult,Med Spend,3,150,Beauty,Male
+1,1,2023-05-16,Tue,May,16,Senior,High Spend,2,1000,Clothing,Male
+1,1,2023-07-24,Mon,Jul,24,Youth Adult,High Spend,3,1500,Beauty,Male
+1,1,2023-09-21,Thu,Sep,21,Youth Adult,Low Spend,3,75,Electronics,Female
+1,1,2023-03-20,Mon,Mar,20,Senior,High Spend,2,600,Electronics,Male
+1,1,2023-05-15,Mon,May,15,Senior,High Spend,3,1500,Beauty,Female
+1,1,2023-02-27,Mon,Feb,27,Youth Adult,Low Spend,1,25,Clothing,Male
+1,1,2023-08-13,Sun,Aug,13,Adult,Med Spend,4,200,Electronics,Female
+1,1,2023-09-06,Wed,Sep,6,Senior,Low Spend,3,90,Clothing,Male
+1,1,2023-10-27,Fri,Oct,27,Adult,High Spend,4,2000,Clothing,Male
+1,1,2023-02-16,Thu,Feb,16,Youth Adult,High Spend,3,900,Electronics,Male
+1,1,2023-04-09,Sun,Apr,9,Youth Adult,Med Spend,4,200,Beauty,Male
+1,1,2023-12-05,Tue,Dec,5,Senior,High Spend,4,2000,Electronics,Male
+1,1,2023-06-02,Fri,Jun,2,Youth Adult,Low Spend,2,50,Clothing,Female
+1,1,2023-05-26,Fri,May,26,Senior,High Spend,2,1000,Clothing,Female
+1,1,2023-08-03,Thu,Aug,3,Adult,Low Spend,2,50,Beauty,Female
+1,1,2023-06-26,Mon,Jun,26,Youth Adult,High Spend,4,1200,Electronics,Female
+1,1,2023-11-22,Wed,Nov,22,Youth,High Spend,4,2000,Beauty,Female
+1,1,2023-01-01,Sun,Jan,1,Senior,High Spend,3,900,Clothing,Male
+1,1,2023-01-04,Wed,Jan,4,Youth Adult,Med Spend,3,150,Clothing,Female
+1,1,2023-02-24,Fri,Feb,24,Senior,High Spend,1,300,Clothing,Male
+1,1,2023-03-21,Tue,Mar,21,Adult,Med Spend,4,200,Beauty,Male
+1,1,2023-10-13,Fri,Oct,13,Senior,High Spend,2,1000,Beauty,Female
+1,1,2023-10-18,Wed,Oct,18,Adult,High Spend,4,2000,Electronics,Female
+1,1,2023-10-26,Thu,Oct,26,Youth Adult,Low Spend,3,90,Clothing,Female
+1,1,2023-09-14,Thu,Sep,14,Senior,High Spend,4,1200,Clothing,Female
+1,1,2023-09-28,Thu,Sep,28,Adult,Low Spend,1,25,Beauty,Male
+1,1,2023-11-28,Tue,Nov,28,Adult,Low Spend,3,90,Electronics,Female
+1,1,2023-10-11,Wed,Oct,11,Youth Adult,Low Spend,3,75,Clothing,Male
+1,1,2023-04-19,Wed,Apr,19,Senior,Low Spend,2,50,Beauty,Female
+1,1,2023-11-20,Mon,Nov,20,Senior,Low Spend,2,50,Electronics,Female
+1,1,2023-07-28,Fri,Jul,28,Senior,High Spend,1,500,Electronics,Male
+1,1,2023-07-30,Sun,Jul,30,Adult,Med Spend,4,120,Beauty,Female
+1,1,2023-04-02,Sun,Apr,2,Adult,High Spend,4,2000,Clothing,Male
+1,1,2023-04-23,Sun,Apr,23,Senior,Low Spend,2,100,Beauty,Female
+1,1,2023-02-26,Sun,Feb,26,Youth Adult,Low Spend,2,50,Clothing,Male
+1,1,2023-02-03,Fri,Feb,3,Youth Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-05-31,Wed,May,31,Youth Adult,Med Spend,4,200,Clothing,Male
+1,1,2023-08-20,Sun,Aug,20,Senior,Low Spend,3,90,Electronics,Female
+1,1,2023-08-31,Thu,Aug,31,Senior,High Spend,4,2000,Clothing,Female
+1,1,2023-06-09,Fri,Jun,9,Youth Adult,High Spend,3,1500,Clothing,Male
+1,1,2023-05-08,Mon,May,8,Youth Adult,Low Spend,1,50,Beauty,Female
+1,1,2023-04-04,Tue,Apr,4,Adult,High Spend,3,1500,Clothing,Female
+1,1,2023-03-21,Tue,Mar,21,Senior,High Spend,3,1500,Beauty,Female
+1,1,2023-01-30,Mon,Jan,30,Senior,Low Spend,4,100,Electronics,Female
+1,1,2023-03-03,Fri,Mar,3,Youth Adult,Low Spend,2,50,Electronics,Female
+1,1,2023-05-16,Tue,May,16,Adult,High Spend,1,300,Beauty,Female
+1,1,2023-06-03,Sat,Jun,3,Senior,Low Spend,1,25,Beauty,Male
+1,1,2023-02-07,Tue,Feb,7,Youth Adult,High Spend,3,1500,Beauty,Female
+1,1,2023-06-20,Tue,Jun,20,Youth Adult,Low Spend,3,90,Clothing,Female
+1,1,2023-02-22,Wed,Feb,22,Senior,Low Spend,1,25,Beauty,Female
+1,1,2023-08-12,Sat,Aug,12,Senior,Low Spend,2,100,Beauty,Male
+1,1,2023-04-23,Sun,Apr,23,Senior,High Spend,3,1500,Beauty,Male
+1,1,2023-06-22,Thu,Jun,22,Adult,Med Spend,4,120,Clothing,Female
+2,2,2023-10-03,Tue,Oct,3,Senior,Med Spend,7,270,Electronics,Male
+2,2,2023-07-09,Sun,Jul,9,Senior,Low Spend,6,200,Clothing,Female
+1,1,2023-07-13,Thu,Jul,13,Adult,Low Spend,2,100,Electronics,Male
+1,1,2023-05-23,Tue,May,23,Youth Adult,High Spend,4,2000,Electronics,Female
+1,1,2023-01-17,Tue,Jan,17,Senior,Low Spend,1,25,Clothing,Female
+1,1,2023-08-28,Mon,Aug,28,Adult,Med Spend,4,200,Clothing,Male
+1,1,2023-01-02,Mon,Jan,2,Senior,Med Spend,3,150,Clothing,Female
+1,1,2023-10-29,Sun,Oct,29,Senior,Low Spend,3,90,Beauty,Male
+1,1,2023-04-28,Fri,Apr,28,Senior,Low Spend,1,25,Clothing,Female
+1,1,2023-02-22,Wed,Feb,22,Adult,Low Spend,2,50,Clothing,Male
+1,1,2023-05-19,Fri,May,19,Senior,High Spend,2,1000,Beauty,Female
+1,1,2023-06-16,Fri,Jun,16,Senior,Low Spend,1,30,Electronics,Male
+1,1,2023-02-28,Tue,Feb,28,Senior,High Spend,4,2000,Electronics,Male
+1,1,2023-08-21,Mon,Aug,21,Adult,Low Spend,2,60,Clothing,Male
+1,1,2023-01-17,Tue,Jan,17,Adult,High Spend,1,500,Beauty,Female
+1,1,2023-04-20,Thu,Apr,20,Senior,Low Spend,2,50,Electronics,Female
+1,1,2023-04-08,Sat,Apr,8,Senior,Low Spend,1,30,Clothing,Male
+1,1,2023-10-30,Mon,Oct,30,Adult,Low Spend,3,75,Beauty,Male
+1,1,2023-02-02,Thu,Feb,2,Adult,High Spend,4,1200,Electronics,Male
+1,1,2023-11-02,Thu,Nov,2,Adult,Low Spend,3,75,Clothing,Female
+1,1,2023-02-10,Fri,Feb,10,Senior,Low Spend,2,100,Beauty,Male
+1,1,2023-12-20,Wed,Dec,20,Youth Adult,Med Spend,4,200,Electronics,Female
+1,1,2024-01-01,Mon,Jan,1,Senior,High Spend,3,1500,Beauty,Male
+1,1,2023-04-26,Wed,Apr,26,Senior,Med Spend,4,120,Clothing,Male
+2,2,2023-01-14,Sat,Jan,14,Senior,High Spend,4,1400,Beauty,Female
+1,1,2023-02-10,Fri,Feb,10,Youth Adult,High Spend,1,300,Electronics,Male
+1,1,2023-09-13,Wed,Sep,13,Senior,Low Spend,2,50,Electronics,Female
+1,1,2023-03-13,Mon,Mar,13,Senior,Med Spend,3,150,Clothing,Female
+1,1,2023-07-05,Wed,Jul,5,Youth Adult,High Spend,1,500,Beauty,Male
+1,1,2023-12-19,Tue,Dec,19,Senior,High Spend,2,600,Clothing,Female
+1,1,2023-06-11,Sun,Jun,11,Adult,High Spend,2,1000,Beauty,Female
+1,1,2023-02-20,Mon,Feb,20,Youth Adult,Low Spend,1,30,Electronics,Female
+1,1,2023-06-01,Thu,Jun,1,Senior,Low Spend,2,60,Clothing,Male
+2,2,2023-04-22,Sat,Apr,22,Senior,Low Spend,5,125,Clothing,Female
+1,1,2023-08-07,Mon,Aug,7,Senior,High Spend,3,900,Electronics,Female
+2,2,2023-06-02,Fri,Jun,2,Senior,Low Spend,4,100,Electronics,Male
+1,1,2023-09-06,Wed,Sep,6,Senior,Med Spend,4,200,Clothing,Male
+1,1,2023-04-13,Thu,Apr,13,Adult,Med Spend,4,200,Electronics,Male
+1,1,2023-05-17,Wed,May,17,Adult,High Spend,4,2000,Electronics,Male
+1,1,2023-12-26,Tue,Dec,26,Adult,Med Spend,4,200,Beauty,Female
+1,1,2023-07-24,Mon,Jul,24,Senior,High Spend,4,2000,Clothing,Male
+1,1,2023-04-23,Sun,Apr,23,Youth Adult,High Spend,2,600,Beauty,Female
+1,1,2023-07-22,Sat,Jul,22,Youth Adult,Low Spend,4,100,Beauty,Female
+1,1,2023-11-18,Sat,Nov,18,Senior,High Spend,2,1000,Beauty,Male
+1,1,2023-07-17,Mon,Jul,17,Senior,Low Spend,1,50,Clothing,Female
+1,1,2023-09-28,Thu,Sep,28,Youth Adult,High Spend,1,300,Electronics,Male
+1,1,2023-07-11,Tue,Jul,11,Senior,Low Spend,2,100,Beauty,Female
+1,1,2023-09-29,Fri,Sep,29,Adult,High Spend,1,300,Electronics,Male
+1,1,2023-06-15,Thu,Jun,15,Senior,Med Spend,4,120,Beauty,Male
+1,1,2023-03-07,Tue,Mar,7,Senior,High Spend,3,900,Beauty,Female
+1,1,2023-12-04,Mon,Dec,4,Senior,High Spend,3,1500,Beauty,Male
+1,1,2023-11-07,Tue,Nov,7,Senior,Low Spend,1,25,Clothing,Female
+1,1,2023-08-05,Sat,Aug,5,Senior,Low Spend,1,25,Clothing,Male
+1,1,2023-12-10,Sun,Dec,10,Youth Adult,Low Spend,2,60,Beauty,Male
+1,1,2023-07-11,Tue,Jul,11,Senior,Low Spend,2,100,Electronics,Male
+1,1,2023-02-02,Thu,Feb,2,Senior,Low Spend,1,25,Clothing,Female
+1,1,2023-06-23,Fri,Jun,23,Youth Adult,Low Spend,1,50,Clothing,Female
+1,1,2023-10-04,Wed,Oct,4,Senior,Low Spend,2,60,Electronics,Male
+1,1,2023-05-05,Fri,May,5,Senior,High Spend,1,300,Electronics,Male
+1,1,2023-07-15,Sat,Jul,15,Senior,High Spend,3,1500,Beauty,Female
+2,2,2023-06-24,Sat,Jun,24,Senior,High Spend,8,4000,Electronics,Male
+1,1,2023-02-27,Mon,Feb,27,Senior,High Spend,2,600,Electronics,Female
+1,1,2023-07-05,Wed,Jul,5,Youth Adult,Med Spend,4,200,Clothing,Male
+1,1,2023-02-05,Sun,Feb,5,Senior,Low Spend,1,30,Clothing,Male
+1,1,2023-05-07,Sun,May,7,Adult,High Spend,2,600,Beauty,Male
+1,1,2023-04-28,Fri,Apr,28,Senior,Low Spend,2,60,Electronics,Female
+1,1,2023-07-01,Sat,Jul,1,Youth Adult,Low Spend,2,60,Beauty,Male
+1,1,2023-08-28,Mon,Aug,28,Youth Adult,Low Spend,2,60,Beauty,Male
+1,1,2023-11-27,Mon,Nov,27,Adult,Low Spend,3,90,Beauty,Female
+1,1,2023-07-26,Wed,Jul,26,Senior,High Spend,1,300,Electronics,Male
+1,1,2023-07-06,Thu,Jul,6,Senior,Med Spend,4,200,Beauty,Male
+1,1,2023-04-09,Sun,Apr,9,Youth Adult,High Spend,2,1000,Clothing,Female
+1,1,2023-10-02,Mon,Oct,2,Youth Adult,Low Spend,4,100,Beauty,Female
+1,1,2023-03-13,Mon,Mar,13,Adult,Low Spend,4,100,Clothing,Female
+1,1,2023-08-05,Sat,Aug,5,Senior,High Spend,1,500,Clothing,Male
+1,1,2023-05-08,Mon,May,8,Youth,High Spend,1,500,Electronics,Female
+1,1,2023-02-20,Mon,Feb,20,Senior,Low Spend,4,100,Clothing,Male
+1,1,2023-01-26,Thu,Jan,26,Youth Adult,Med Spend,4,120,Clothing,Male
+1,1,2023-10-04,Wed,Oct,4,Youth Adult,High Spend,2,600,Beauty,Female
+1,1,2023-01-08,Sun,Jan,8,Senior,High Spend,2,600,Clothing,Male
+1,1,2023-05-02,Tue,May,2,Senior,Low Spend,3,90,Electronics,Male
+1,1,2023-03-27,Mon,Mar,27,Youth Adult,Low Spend,3,90,Clothing,Female
+2,2,2023-07-28,Fri,Jul,28,Youth Adult,High Spend,5,1900,Beauty,Female
+1,1,2023-09-04,Mon,Sep,4,Adult,High Spend,2,1000,Electronics,Female
+1,1,2023-07-25,Tue,Jul,25,Senior,High Spend,2,1000,Electronics,Male
+1,1,2023-03-26,Sun,Mar,26,Youth Adult,Med Spend,4,120,Clothing,Male
+1,1,2023-07-14,Fri,Jul,14,Senior,High Spend,2,600,Beauty,Male
+1,1,2023-01-02,Mon,Jan,2,Youth Adult,Low Spend,3,90,Electronics,Male
+1,1,2023-05-16,Tue,May,16,Youth,Low Spend,1,30,Beauty,Female
+1,1,2023-05-27,Sat,May,27,Youth Adult,Low Spend,2,50,Electronics,Female
+1,1,2023-08-05,Sat,Aug,5,Adult,High Spend,4,1200,Beauty,Female
+1,1,2023-12-05,Tue,Dec,5,Adult,Low Spend,4,100,Beauty,Female
+1,1,2023-09-07,Thu,Sep,7,Senior,Med Spend,4,120,Clothing,Male
+1,1,2023-04-08,Sat,Apr,8,Senior,Med Spend,4,120,Clothing,Male
+1,1,2023-01-30,Mon,Jan,30,Senior,High Spend,1,500,Electronics,Male
+1,1,2023-01-26,Thu,Jan,26,Youth Adult,High Spend,3,900,Beauty,Female
+1,1,2023-10-27,Fri,Oct,27,Senior,Med Spend,3,150,Electronics,Female
+1,1,2023-09-02,Sat,Sep,2,Senior,Low Spend,2,50,Electronics,Female
+1,1,2023-09-15,Fri,Sep,15,Youth,Low Spend,3,75,Clothing,Female
+1,1,2023-04-06,Thu,Apr,6,Senior,High Spend,4,1200,Electronics,Male
+1,1,2023-11-01,Wed,Nov,1,Adult,High Spend,3,900,Electronics,Male
+1,1,2023-05-01,Mon,May,1,Adult,High Spend,1,500,Clothing,Male
+1,1,2023-07-26,Wed,Jul,26,Senior,Low Spend,2,100,Beauty,Male
+1,1,2023-10-19,Thu,Oct,19,Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-05-07,Sun,May,7,Adult,Med Spend,4,200,Clothing,Male
+1,1,2023-11-01,Wed,Nov,1,Youth Adult,Low Spend,2,50,Electronics,Male
+2,2,2023-01-21,Sat,Jan,21,Senior,Low Spend,3,90,Beauty,Female
+1,1,2023-05-14,Sun,May,14,Adult,High Spend,1,500,Electronics,Male
+1,1,2023-06-10,Sat,Jun,10,Senior,High Spend,3,1500,Electronics,Male
+1,1,2023-07-22,Sat,Jul,22,Senior,Low Spend,1,50,Clothing,Male
+1,1,2023-11-27,Mon,Nov,27,Senior,Low Spend,1,25,Clothing,Male
+1,1,2023-08-23,Wed,Aug,23,Youth Adult,High Spend,1,500,Beauty,Female
+1,1,2023-08-23,Wed,Aug,23,Senior,High Spend,4,1200,Clothing,Female
+1,1,2023-11-15,Wed,Nov,15,Youth Adult,High Spend,3,1500,Electronics,Male
+1,1,2023-10-16,Mon,Oct,16,Youth Adult,Low Spend,2,60,Electronics,Male
+1,1,2023-09-17,Sun,Sep,17,Adult,Low Spend,1,50,Clothing,Male
+1,1,2023-02-05,Sun,Feb,5,Senior,Low Spend,1,25,Clothing,Female
+1,1,2023-05-06,Sat,May,6,Senior,High Spend,2,600,Electronics,Male
+1,1,2023-03-22,Wed,Mar,22,Senior,Low Spend,3,90,Beauty,Female
+1,1,2023-12-01,Fri,Dec,1,Youth Adult,Low Spend,2,50,Clothing,Male
+1,1,2023-09-28,Thu,Sep,28,Adult,Low Spend,2,100,Electronics,Male
+1,1,2023-06-03,Sat,Jun,3,Youth Adult,High Spend,1,500,Clothing,Female
+1,1,2023-02-23,Thu,Feb,23,Senior,Low Spend,1,30,Beauty,Female
+1,1,2023-02-24,Fri,Feb,24,Senior,Med Spend,4,200,Clothing,Male
+1,1,2023-03-21,Tue,Mar,21,Senior,High Spend,2,600,Clothing,Female
+1,1,2023-11-06,Mon,Nov,6,Youth Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-04-18,Tue,Apr,18,Youth Adult,Low Spend,4,100,Beauty,Female
+1,1,2023-11-21,Tue,Nov,21,Youth Adult,Low Spend,2,100,Clothing,Female
+1,1,2023-05-16,Tue,May,16,Senior,Med Spend,4,200,Electronics,Male
+1,1,2023-09-16,Sat,Sep,16,Youth Adult,High Spend,4,2000,Electronics,Female
+1,1,2023-05-09,Tue,May,9,Senior,Low Spend,4,100,Beauty,Male
+1,1,2023-01-27,Fri,Jan,27,Senior,Low Spend,2,60,Clothing,Male
+1,1,2023-02-17,Fri,Feb,17,Senior,High Spend,4,2000,Electronics,Male
+1,1,2023-08-15,Tue,Aug,15,Youth Adult,Low Spend,1,25,Electronics,Male
+1,1,2023-01-05,Thu,Jan,5,Senior,High Spend,2,1000,Electronics,Female
+1,1,2023-10-07,Sat,Oct,7,Adult,High Spend,4,1200,Electronics,Female
+1,1,2023-01-19,Thu,Jan,19,Senior,Low Spend,1,30,Clothing,Female
+1,1,2023-10-10,Tue,Oct,10,Senior,High Spend,4,1200,Beauty,Male
+1,1,2023-08-09,Wed,Aug,9,Youth Adult,High Spend,2,600,Clothing,Male
+1,1,2023-06-07,Wed,Jun,7,Youth Adult,Low Spend,1,50,Electronics,Male
+1,1,2023-04-01,Sat,Apr,1,Senior,High Spend,4,1200,Electronics,Male
+1,1,2023-01-13,Fri,Jan,13,Adult,High Spend,2,600,Electronics,Male
+1,1,2023-04-02,Sun,Apr,2,Senior,Med Spend,3,150,Electronics,Female
+1,1,2023-12-09,Sat,Dec,9,Adult,Low Spend,1,25,Electronics,Male
+1,1,2023-12-04,Mon,Dec,4,Youth Adult,Low Spend,1,30,Electronics,Male
+1,1,2023-06-18,Sun,Jun,18,Senior,High Spend,3,900,Electronics,Female
+1,1,2023-02-05,Sun,Feb,5,Adult,Med Spend,3,150,Clothing,Male
+1,1,2023-05-14,Sun,May,14,Adult,Low Spend,2,60,Electronics,Male
+1,1,2023-10-25,Wed,Oct,25,Senior,High Spend,4,2000,Beauty,Male
+1,1,2023-08-11,Fri,Aug,11,Senior,High Spend,2,600,Beauty,Male
+2,2,2023-11-07,Tue,Nov,7,Senior,Low Spend,3,85,Beauty,Female
+1,1,2023-03-01,Wed,Mar,1,Youth,High Spend,1,300,Electronics,Female
+1,1,2023-07-17,Mon,Jul,17,Senior,High Spend,3,900,Clothing,Female
+1,1,2023-10-23,Mon,Oct,23,Youth Adult,Low Spend,4,100,Beauty,Male
+1,1,2023-04-08,Sat,Apr,8,Senior,Low Spend,4,100,Clothing,Female
+1,1,2023-05-11,Thu,May,11,Adult,Low Spend,1,30,Clothing,Female
+1,1,2023-09-24,Sun,Sep,24,Senior,High Spend,1,300,Electronics,Female
+1,1,2023-04-11,Tue,Apr,11,Senior,Low Spend,2,50,Clothing,Male
+1,1,2023-07-06,Thu,Jul,6,Adult,Low Spend,2,60,Clothing,Female
+1,1,2023-12-08,Fri,Dec,8,Senior,High Spend,3,900,Electronics,Female
+1,1,2023-04-09,Sun,Apr,9,Senior,Low Spend,2,60,Clothing,Female
+1,1,2023-07-14,Fri,Jul,14,Senior,High Spend,3,900,Electronics,Male
+1,1,2023-12-13,Wed,Dec,13,Senior,Low Spend,3,75,Electronics,Female
+1,1,2023-10-08,Sun,Oct,8,Senior,Low Spend,1,25,Clothing,Female
+1,1,2023-04-18,Tue,Apr,18,Senior,Low Spend,2,50,Electronics,Male
+1,1,2023-08-09,Wed,Aug,9,Youth Adult,Low Spend,2,60,Clothing,Male
+1,1,2023-12-02,Sat,Dec,2,Senior,Low Spend,1,30,Clothing,Female
+1,1,2023-05-26,Fri,May,26,Senior,Med Spend,4,120,Clothing,Female
+1,1,2023-11-09,Thu,Nov,9,Youth,High Spend,4,2000,Clothing,Female
+1,1,2023-02-07,Tue,Feb,7,Senior,High Spend,1,300,Electronics,Female
+1,1,2023-04-10,Mon,Apr,10,Youth Adult,Low Spend,1,30,Clothing,Male
+1,1,2023-07-16,Sun,Jul,16,Adult,Low Spend,3,90,Clothing,Female
+2,2,2023-08-06,Sun,Aug,6,Senior,High Spend,5,2500,Electronics,Female
+1,1,2023-09-23,Sat,Sep,23,Senior,Low Spend,2,100,Clothing,Male
+1,1,2023-05-08,Mon,May,8,Senior,Low Spend,3,75,Electronics,Male
+1,1,2023-03-04,Sat,Mar,4,Adult,High Spend,2,1000,Beauty,Female
+1,1,2023-08-22,Tue,Aug,22,Senior,Low Spend,3,75,Beauty,Female
+1,1,2023-05-20,Sat,May,20,Senior,Low Spend,3,75,Clothing,Male
+1,1,2023-06-21,Wed,Jun,21,Senior,Low Spend,3,75,Clothing,Male
+1,1,2023-06-13,Tue,Jun,13,Senior,High Spend,1,500,Clothing,Female
+1,1,2023-04-20,Thu,Apr,20,Senior,Low Spend,1,50,Clothing,Male
+1,1,2023-12-23,Sat,Dec,23,Senior,High Spend,3,900,Electronics,Female
+1,1,2023-10-07,Sat,Oct,7,Senior,Low Spend,2,100,Electronics,Male
+1,1,2023-10-31,Tue,Oct,31,Youth Adult,High Spend,3,1500,Electronics,Female
+1,1,2023-01-14,Sat,Jan,14,Adult,Low Spend,3,75,Beauty,Male
+1,1,2023-04-20,Thu,Apr,20,Youth Adult,High Spend,4,1200,Beauty,Male
+1,1,2023-10-26,Thu,Oct,26,Senior,Low Spend,1,50,Beauty,Female
+1,1,2023-08-05,Sat,Aug,5,Senior,High Spend,2,1000,Electronics,Female
+1,1,2023-02-27,Mon,Feb,27,Youth Adult,Med Spend,4,200,Beauty,Male
+1,1,2023-12-20,Wed,Dec,20,Youth Adult,High Spend,3,900,Beauty,Female
+1,1,2023-12-08,Fri,Dec,8,Youth Adult,High Spend,2,1000,Clothing,Female
+1,1,2023-09-18,Mon,Sep,18,Senior,Med Spend,4,200,Beauty,Female
+1,1,2023-12-04,Mon,Dec,4,Adult,Med Spend,3,150,Beauty,Female
+1,1,2023-02-13,Mon,Feb,13,Youth Adult,High Spend,4,2000,Beauty,Male
+1,1,2023-05-27,Sat,May,27,Senior,Med Spend,3,150,Clothing,Male
+1,1,2023-05-01,Mon,May,1,Adult,Low Spend,2,100,Beauty,Female
+1,1,2023-06-19,Mon,Jun,19,Youth Adult,High Spend,4,1200,Beauty,Male
+1,1,2023-10-05,Thu,Oct,5,Youth Adult,Low Spend,1,30,Beauty,Male
+1,1,2023-03-11,Sat,Mar,11,Senior,High Spend,1,500,Clothing,Male
+1,1,2023-04-04,Tue,Apr,4,Senior,Low Spend,2,60,Clothing,Female
+1,1,2023-08-04,Fri,Aug,4,Adult,Low Spend,2,50,Clothing,Female
+2,2,2023-05-03,Wed,May,3,Senior,Low Spend,2,60,Beauty,Male
+2,2,2023-08-27,Sun,Aug,27,Senior,High Spend,5,1500,Electronics,Female
+1,1,2023-10-24,Tue,Oct,24,Adult,Low Spend,3,75,Beauty,Male
+1,1,2023-01-14,Sat,Jan,14,Youth Adult,Low Spend,3,75,Beauty,Female
+1,1,2023-05-03,Wed,May,3,Adult,Low Spend,3,75,Electronics,Female
+1,1,2023-10-03,Tue,Oct,3,Youth Adult,High Spend,2,600,Beauty,Female
+1,1,2023-03-09,Thu,Mar,9,Senior,Med Spend,4,200,Clothing,Female
+1,1,2023-08-13,Sun,Aug,13,Senior,High Spend,1,500,Clothing,Male
+2,2,2023-11-10,Fri,Nov,10,Senior,Low Spend,4,115,Electronics,Male
+1,1,2023-05-25,Thu,May,25,Senior,High Spend,2,1000,Electronics,Male
+1,1,2023-04-15,Sat,Apr,15,Senior,High Spend,1,500,Beauty,Female
+1,1,2023-09-08,Fri,Sep,8,Senior,Low Spend,3,75,Beauty,Female
+1,1,2023-05-15,Mon,May,15,Senior,Med Spend,4,120,Electronics,Female
+1,1,2023-03-24,Fri,Mar,24,Youth Adult,Med Spend,3,150,Electronics,Male
+1,1,2023-07-01,Sat,Jul,1,Adult,Low Spend,4,100,Electronics,Male
+1,1,2023-05-08,Mon,May,8,Youth,Low Spend,3,75,Beauty,Male
+1,1,2023-08-29,Tue,Aug,29,Youth Adult,High Spend,4,2000,Clothing,Female
+1,1,2023-06-29,Thu,Jun,29,Senior,High Spend,4,2000,Beauty,Female
+2,2,2023-04-25,Tue,Apr,25,Senior,Low Spend,3,130,Clothing,Male
+1,1,2023-05-23,Tue,May,23,Senior,Low Spend,1,30,Electronics,Male
+1,1,2023-01-01,Sun,Jan,1,Senior,High Spend,3,1500,Beauty,Male
+1,1,2023-06-10,Sat,Jun,10,Senior,High Spend,2,1000,Clothing,Male
+1,1,2023-12-06,Wed,Dec,6,Senior,Low Spend,3,90,Beauty,Male
+1,1,2023-03-31,Fri,Mar,31,Youth Adult,High Spend,4,1200,Clothing,Male
+1,1,2023-11-12,Sun,Nov,12,Senior,Med Spend,3,150,Beauty,Female
+1,1,2023-07-27,Thu,Jul,27,Youth Adult,Low Spend,3,90,Beauty,Female
+1,1,2023-12-12,Tue,Dec,12,Senior,Low Spend,1,50,Electronics,Female
+1,1,2023-08-31,Thu,Aug,31,Senior,Low Spend,2,50,Electronics,Female
+1,1,2023-02-17,Fri,Feb,17,Youth Adult,Med Spend,4,200,Beauty,Female
+1,1,2023-03-17,Fri,Mar,17,Adult,High Spend,3,900,Clothing,Male
+1,1,2023-03-17,Fri,Mar,17,Senior,Low Spend,3,75,Clothing,Male
+1,1,2023-10-14,Sat,Oct,14,Senior,Low Spend,1,50,Clothing,Male
+1,1,2023-06-12,Mon,Jun,12,Senior,Low Spend,2,50,Electronics,Male
+1,1,2023-10-08,Sun,Oct,8,Senior,High Spend,4,2000,Electronics,Male
+1,1,2023-09-24,Sun,Sep,24,Youth Adult,Low Spend,3,90,Electronics,Female
+1,1,2023-05-21,Sun,May,21,Senior,High Spend,3,1500,Clothing,Male
+1,1,2023-08-14,Mon,Aug,14,Senior,High Spend,4,1200,Beauty,Male
+1,1,2023-10-27,Fri,Oct,27,Youth Adult,High Spend,3,1500,Beauty,Female
+1,1,2023-11-29,Wed,Nov,29,Senior,High Spend,3,1500,Clothing,Male
+1,1,2023-08-15,Tue,Aug,15,Adult,Low Spend,1,25,Electronics,Female
+1,1,2023-03-22,Wed,Mar,22,Adult,Low Spend,2,100,Beauty,Male
+1,1,2023-02-21,Tue,Feb,21,Youth Adult,Low Spend,1,25,Beauty,Female
+1,1,2023-04-20,Thu,Apr,20,Senior,Low Spend,3,75,Beauty,Female
+1,1,2023-10-11,Wed,Oct,11,Youth Adult,High Spend,2,1000,Beauty,Female
+1,1,2023-11-23,Thu,Nov,23,Senior,High Spend,4,1200,Beauty,Male
+1,1,2023-03-07,Tue,Mar,7,Senior,Low Spend,3,90,Clothing,Female
+1,1,2023-10-14,Sat,Oct,14,Senior,Low Spend,2,60,Electronics,Male
+1,1,2023-07-28,Fri,Jul,28,Senior,High Spend,3,900,Beauty,Female
+1,1,2023-04-13,Thu,Apr,13,Senior,Low Spend,2,60,Clothing,Female
+1,1,2023-04-27,Thu,Apr,27,Youth Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-07-24,Mon,Jul,24,Youth Adult,Low Spend,2,60,Beauty,Male
+2,2,2023-06-19,Mon,Jun,19,Senior,Low Spend,5,125,Clothing,Female
+1,1,2023-06-26,Mon,Jun,26,Adult,High Spend,3,900,Electronics,Female
+1,1,2023-06-03,Sat,Jun,3,Youth Adult,High Spend,1,500,Beauty,Female
+1,1,2023-03-28,Tue,Mar,28,Senior,Low Spend,2,100,Clothing,Male
+1,1,2023-12-06,Wed,Dec,6,Adult,High Spend,3,1500,Clothing,Female
+1,1,2023-10-22,Sun,Oct,22,Senior,High Spend,2,1000,Beauty,Female
+1,1,2023-12-23,Sat,Dec,23,Youth Adult,High Spend,1,300,Electronics,Female
+1,1,2023-09-11,Mon,Sep,11,Youth Adult,Med Spend,4,200,Electronics,Female
+1,1,2023-01-26,Thu,Jan,26,Youth Adult,Low Spend,1,50,Beauty,Female
+1,1,2023-12-08,Fri,Dec,8,Adult,High Spend,1,300,Clothing,Male
+1,1,2023-08-07,Mon,Aug,7,Adult,Med Spend,4,120,Beauty,Male
+1,1,2023-09-06,Wed,Sep,6,Youth Adult,Low Spend,3,75,Beauty,Male
+1,1,2023-11-17,Fri,Nov,17,Adult,Med Spend,4,120,Electronics,Female
+1,1,2023-01-11,Wed,Jan,11,Youth,Low Spend,3,90,Beauty,Female
+1,1,2023-10-03,Tue,Oct,3,Senior,Low Spend,4,100,Clothing,Male
+1,1,2023-12-09,Sat,Dec,9,Adult,High Spend,4,2000,Electronics,Male
+1,1,2023-06-10,Sat,Jun,10,Adult,Med Spend,4,200,Beauty,Female
+1,1,2023-06-08,Thu,Jun,8,Adult,High Spend,4,1200,Beauty,Female
+1,1,2023-08-04,Fri,Aug,4,Senior,Low Spend,2,60,Clothing,Female
+1,1,2023-08-25,Fri,Aug,25,Senior,Low Spend,3,75,Beauty,Female
+1,1,2023-05-12,Fri,May,12,Senior,Low Spend,4,100,Clothing,Male
+1,1,2023-11-14,Tue,Nov,14,Senior,Low Spend,1,30,Electronics,Male
+1,1,2023-03-08,Wed,Mar,8,Youth Adult,Low Spend,1,25,Clothing,Female
+1,1,2023-05-17,Wed,May,17,Senior,High Spend,2,1000,Clothing,Female
+1,1,2023-01-13,Fri,Jan,13,Youth Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-02-25,Sat,Feb,25,Adult,High Spend,3,1500,Beauty,Male
+1,1,2023-02-05,Sun,Feb,5,Youth,Med Spend,4,120,Electronics,Female
+1,1,2023-06-14,Wed,Jun,14,Youth Adult,High Spend,3,900,Clothing,Female
+1,1,2023-08-15,Tue,Aug,15,Senior,Med Spend,4,200,Electronics,Male
+1,1,2023-09-21,Thu,Sep,21,Adult,Low Spend,1,30,Electronics,Female
+1,1,2023-09-01,Fri,Sep,1,Youth Adult,High Spend,2,600,Electronics,Female
+1,1,2023-08-22,Tue,Aug,22,Youth Adult,High Spend,4,1200,Beauty,Male
+1,1,2023-03-10,Fri,Mar,10,Adult,Med Spend,3,150,Clothing,Male
+1,1,2023-08-26,Sat,Aug,26,Adult,High Spend,3,900,Beauty,Female
+1,1,2023-10-04,Wed,Oct,4,Youth Adult,Low Spend,3,90,Beauty,Male
+1,1,2023-08-01,Tue,Aug,1,Adult,Low Spend,2,100,Beauty,Female
+1,1,2023-07-14,Fri,Jul,14,Senior,Low Spend,2,60,Electronics,Female
+2,2,2023-02-08,Wed,Feb,8,Senior,Low Spend,6,150,Electronics,Female
+1,1,2023-06-30,Fri,Jun,30,Youth Adult,High Spend,2,1000,Clothing,Female
+1,1,2023-08-03,Thu,Aug,3,Senior,High Spend,1,300,Electronics,Female
+1,1,2023-11-05,Sun,Nov,5,Senior,High Spend,3,900,Clothing,Female
+1,1,2023-01-15,Sun,Jan,15,Senior,High Spend,1,500,Clothing,Male
+1,1,2023-12-14,Thu,Dec,14,Senior,Low Spend,2,60,Beauty,Female
+1,1,2023-10-16,Mon,Oct,16,Youth Adult,High Spend,3,1500,Electronics,Male
+1,1,2023-11-26,Sun,Nov,26,Senior,Low Spend,4,100,Beauty,Female
+1,1,2023-07-14,Fri,Jul,14,Youth Adult,High Spend,3,900,Beauty,Male
+1,1,2023-06-17,Sat,Jun,17,Senior,Med Spend,4,200,Beauty,Female
+1,1,2023-06-17,Sat,Jun,17,Senior,High Spend,4,1200,Clothing,Male
+1,1,2023-06-22,Thu,Jun,22,Senior,High Spend,3,900,Beauty,Male
+1,1,2023-07-14,Fri,Jul,14,Senior,Med Spend,3,150,Electronics,Male
+1,1,2023-01-10,Tue,Jan,10,Youth Adult,Low Spend,1,30,Clothing,Female
+1,1,2023-01-27,Fri,Jan,27,Youth Adult,Low Spend,4,100,Clothing,Male
+1,1,2023-06-29,Thu,Jun,29,Adult,Low Spend,1,50,Clothing,Female
+1,1,2023-11-30,Thu,Nov,30,Senior,High Spend,1,300,Clothing,Male
+1,1,2023-01-21,Sat,Jan,21,Adult,High Spend,4,2000,Electronics,Female
+1,1,2023-03-06,Mon,Mar,6,Adult,Low Spend,3,75,Clothing,Female
+1,1,2023-12-09,Sat,Dec,9,Youth Adult,Low Spend,2,100,Clothing,Male
+1,1,2023-03-27,Mon,Mar,27,Youth Adult,High Spend,1,500,Beauty,Male
+1,1,2023-11-07,Tue,Nov,7,Adult,High Spend,1,500,Clothing,Female
+1,1,2023-08-12,Sat,Aug,12,Senior,Med Spend,4,120,Clothing,Female
+1,1,2023-09-17,Sun,Sep,17,Youth,Med Spend,3,150,Clothing,Male
+1,1,2023-03-26,Sun,Mar,26,Adult,Low Spend,2,100,Electronics,Male
+1,1,2023-07-12,Wed,Jul,12,Youth Adult,Low Spend,1,30,Electronics,Male
+1,1,2023-04-12,Wed,Apr,12,Adult,Low Spend,2,50,Clothing,Female
+1,1,2023-06-04,Sun,Jun,4,Senior,High Spend,3,900,Clothing,Male
+1,1,2023-10-17,Tue,Oct,17,Senior,Low Spend,4,100,Clothing,Male
+1,1,2023-01-22,Sun,Jan,22,Senior,Low Spend,1,25,Electronics,Male
+1,1,2023-07-09,Sun,Jul,9,Youth Adult,Low Spend,1,50,Beauty,Female
+1,1,2023-08-04,Fri,Aug,4,Senior,Low Spend,1,50,Clothing,Male
+1,1,2023-02-24,Fri,Feb,24,Adult,High Spend,4,1200,Clothing,Male
+1,1,2023-08-11,Fri,Aug,11,Senior,Med Spend,4,200,Electronics,Female
+1,1,2023-05-18,Thu,May,18,Youth Adult,High Spend,1,500,Electronics,Male
+1,1,2023-08-03,Thu,Aug,3,Senior,Low Spend,1,25,Electronics,Male
+1,1,2023-11-28,Tue,Nov,28,Senior,High Spend,1,300,Electronics,Male
+1,1,2023-05-05,Fri,May,5,Senior,High Spend,2,1000,Electronics,Female
+1,1,2023-05-23,Tue,May,23,Senior,Med Spend,3,150,Beauty,Female
+1,1,2023-05-05,Fri,May,5,Senior,Med Spend,4,120,Clothing,Male
+1,1,2023-08-26,Sat,Aug,26,Senior,Low Spend,1,25,Beauty,Female
+1,1,2023-10-19,Thu,Oct,19,Senior,High Spend,1,300,Clothing,Female
+1,1,2023-11-09,Thu,Nov,9,Senior,High Spend,3,900,Beauty,Male
+1,1,2023-12-09,Sat,Dec,9,Adult,High Spend,4,1200,Electronics,Female
+1,1,2023-07-14,Fri,Jul,14,Senior,Low Spend,3,90,Beauty,Male
+1,1,2023-04-04,Tue,Apr,4,Senior,Low Spend,2,60,Beauty,Female
+1,1,2023-09-07,Thu,Sep,7,Adult,Med Spend,4,200,Clothing,Male
+1,1,2023-10-12,Thu,Oct,12,Adult,Med Spend,3,150,Clothing,Male
+1,1,2023-05-04,Thu,May,4,Youth Adult,High Spend,2,1000,Beauty,Male
+1,1,2023-11-27,Mon,Nov,27,Senior,Med Spend,4,120,Electronics,Male
+1,1,2023-01-09,Mon,Jan,9,Senior,Med Spend,4,200,Clothing,Male
+1,1,2023-05-31,Wed,May,31,Youth Adult,High Spend,4,1200,Electronics,Male
+1,1,2023-12-21,Thu,Dec,21,Senior,High Spend,1,300,Clothing,Female
+1,1,2023-10-25,Wed,Oct,25,Adult,High Spend,3,1500,Beauty,Male
+1,1,2023-07-08,Sat,Jul,8,Senior,Med Spend,4,120,Electronics,Female
+1,1,2023-10-11,Wed,Oct,11,Senior,Low Spend,3,75,Beauty,Female
+1,1,2023-10-02,Mon,Oct,2,Adult,Low Spend,1,50,Electronics,Female
+1,1,2023-04-09,Sun,Apr,9,Youth Adult,Low Spend,1,50,Electronics,Male
+1,1,2023-05-25,Thu,May,25,Youth Adult,High Spend,2,600,Clothing,Male
+1,1,2023-02-21,Tue,Feb,21,Youth Adult,Low Spend,2,60,Clothing,Male
+1,1,2023-04-10,Mon,Apr,10,Adult,Low Spend,1,30,Electronics,Male
+1,1,2023-06-01,Thu,Jun,1,Senior,Low Spend,1,50,Beauty,Female
+1,1,2023-07-04,Tue,Jul,4,Youth Adult,High Spend,1,500,Clothing,Male
+1,1,2023-03-06,Mon,Mar,6,Youth Adult,Med Spend,3,150,Beauty,Female
+1,1,2023-11-23,Thu,Nov,23,Senior,Low Spend,3,90,Electronics,Female
+1,1,2023-04-05,Wed,Apr,5,Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-09-02,Sat,Sep,2,Youth Adult,Med Spend,4,120,Beauty,Male
+1,1,2023-11-19,Sun,Nov,19,Senior,Med Spend,4,200,Clothing,Male
+1,1,2023-01-28,Sat,Jan,28,Youth Adult,Low Spend,1,30,Electronics,Female
+1,1,2023-03-19,Sun,Mar,19,Senior,Low Spend,2,50,Clothing,Female
+1,1,2023-10-16,Mon,Oct,16,Senior,High Spend,4,1200,Clothing,Female
+1,1,2023-03-02,Thu,Mar,2,Senior,High Spend,1,300,Beauty,Male
+1,1,2023-06-06,Tue,Jun,6,Senior,Med Spend,4,200,Beauty,Male
+1,1,2023-04-19,Wed,Apr,19,Adult,High Spend,3,900,Clothing,Female
+1,1,2023-12-05,Tue,Dec,5,Youth Adult,Med Spend,4,200,Electronics,Female
+1,1,2023-02-11,Sat,Feb,11,Senior,Low Spend,4,100,Beauty,Male
+1,1,2023-03-30,Thu,Mar,30,Senior,Med Spend,4,200,Clothing,Female
+1,1,2023-10-10,Tue,Oct,10,Senior,High Spend,2,600,Beauty,Female
+1,1,2023-03-22,Wed,Mar,22,Senior,Med Spend,3,150,Clothing,Female
+1,1,2023-01-02,Mon,Jan,2,Youth Adult,Low Spend,1,25,Beauty,Female
+1,1,2023-04-29,Sat,Apr,29,Youth Adult,High Spend,3,900,Clothing,Female
+1,1,2023-08-21,Mon,Aug,21,Senior,Low Spend,2,60,Electronics,Female
+1,1,2023-02-06,Mon,Feb,6,Senior,Med Spend,3,150,Electronics,Female
+1,1,2023-05-16,Tue,May,16,Senior,Low Spend,1,50,Clothing,Male
+1,1,2023-05-24,Wed,May,24,Senior,Low Spend,2,50,Clothing,Male
+1,1,2023-02-28,Tue,Feb,28,Senior,Low Spend,4,100,Beauty,Female
+1,1,2023-11-02,Thu,Nov,2,Adult,Low Spend,2,100,Beauty,Male
+1,1,2023-07-29,Sat,Jul,29,Adult,Low Spend,3,75,Electronics,Female
+1,1,2023-03-22,Wed,Mar,22,Senior,Low Spend,1,50,Clothing,Male
+1,1,2023-04-30,Sun,Apr,30,Senior,Low Spend,3,75,Beauty,Female
+1,1,2023-07-24,Mon,Jul,24,Adult,Low Spend,2,50,Clothing,Female
+1,1,2023-05-02,Tue,May,2,Youth Adult,Low Spend,1,25,Clothing,Male
+1,1,2023-09-18,Mon,Sep,18,Youth Adult,High Spend,2,600,Beauty,Female
+1,1,2023-03-06,Mon,Mar,6,Senior,Med Spend,4,200,Clothing,Female
+1,1,2023-08-31,Thu,Aug,31,Senior,Med Spend,4,200,Beauty,Female
+1,1,2023-12-11,Mon,Dec,11,Senior,High Spend,3,900,Clothing,Male
+1,1,2023-06-23,Fri,Jun,23,Senior,Med Spend,4,120,Beauty,Female
+1,1,2023-04-21,Fri,Apr,21,Youth Adult,Med Spend,4,120,Clothing,Male
+1,1,2023-11-08,Wed,Nov,8,Youth Adult,Low Spend,3,90,Beauty,Male
+1,1,2023-05-04,Thu,May,4,Senior,Low Spend,3,90,Beauty,Female
+1,1,2023-10-04,Wed,Oct,4,Adult,Med Spend,4,200,Electronics,Female
+1,1,2023-03-09,Thu,Mar,9,Youth Adult,High Spend,3,900,Clothing,Male
+1,1,2023-02-18,Sat,Feb,18,Youth Adult,High Spend,2,1000,Clothing,Male
+1,1,2023-09-17,Sun,Sep,17,Adult,Low Spend,2,50,Beauty,Male
+1,1,2023-10-04,Wed,Oct,4,Adult,Low Spend,2,60,Clothing,Male
+1,1,2023-06-07,Wed,Jun,7,Senior,Low Spend,2,100,Clothing,Female
+2,2,2023-05-03,Wed,May,3,Adult,Low Spend,6,165,Clothing,Male
+1,1,2023-01-11,Wed,Jan,11,Senior,Low Spend,4,100,Beauty,Female
+1,1,2023-10-11,Wed,Oct,11,Adult,Low Spend,2,100,Electronics,Male
+1,1,2023-01-31,Tue,Jan,31,Youth Adult,High Spend,2,1000,Electronics,Female
+1,1,2023-12-09,Sat,Dec,9,Youth Adult,Low Spend,2,100,Beauty,Male
+1,1,2023-12-01,Fri,Dec,1,Youth Adult,Low Spend,2,60,Electronics,Female
+1,1,2023-03-26,Sun,Mar,26,Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-08-05,Sat,Aug,5,Youth Adult,Low Spend,2,50,Clothing,Male
+2,2,2023-11-30,Thu,Nov,30,Senior,Low Spend,6,160,Electronics,Male
+1,1,2023-09-06,Wed,Sep,6,Youth Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-08-21,Mon,Aug,21,Senior,Low Spend,1,50,Electronics,Male
+1,1,2023-02-01,Wed,Feb,1,Youth Adult,High Spend,4,1200,Electronics,Female
+1,1,2023-06-10,Sat,Jun,10,Youth Adult,Low Spend,2,50,Electronics,Female
+1,1,2023-09-18,Mon,Sep,18,Youth Adult,Med Spend,4,200,Beauty,Female
+1,1,2023-02-11,Sat,Feb,11,Youth Adult,Low Spend,3,90,Electronics,Male
+1,1,2023-12-09,Sat,Dec,9,Senior,High Spend,1,500,Electronics,Female
+1,1,2023-02-07,Tue,Feb,7,Senior,Low Spend,2,100,Clothing,Male
+1,1,2023-05-16,Tue,May,16,Senior,Low Spend,1,30,Beauty,Female
+1,1,2023-12-08,Fri,Dec,8,Youth Adult,High Spend,2,600,Clothing,Male
+1,1,2023-03-10,Fri,Mar,10,Youth Adult,Low Spend,1,25,Beauty,Female
+1,1,2023-05-16,Tue,May,16,Senior,High Spend,2,600,Clothing,Female
+1,1,2023-10-11,Wed,Oct,11,Senior,High Spend,1,300,Clothing,Female
+1,1,2023-06-25,Sun,Jun,25,Senior,High Spend,3,900,Electronics,Female
+2,2,2023-05-22,Mon,May,22,Senior,Low Spend,7,190,Clothing,Female
+1,1,2023-01-02,Mon,Jan,2,Adult,High Spend,3,1500,Clothing,Female
+1,1,2023-12-28,Thu,Dec,28,Senior,Low Spend,2,50,Electronics,Male
+1,1,2023-10-15,Sun,Oct,15,Senior,High Spend,4,1200,Electronics,Male
+1,1,2023-01-22,Sun,Jan,22,Senior,High Spend,1,300,Electronics,Female
+1,1,2023-04-18,Tue,Apr,18,Senior,Low Spend,2,50,Beauty,Female
+1,1,2023-05-02,Tue,May,2,Adult,Low Spend,1,50,Beauty,Male
+1,1,2023-03-25,Sat,Mar,25,Youth,High Spend,2,1000,Beauty,Female
+1,1,2023-12-26,Tue,Dec,26,Adult,High Spend,3,900,Beauty,Female
+1,1,2023-02-25,Sat,Feb,25,Senior,Low Spend,1,50,Beauty,Male
+1,1,2023-04-24,Mon,Apr,24,Senior,Med Spend,4,120,Clothing,Male
+1,1,2023-01-15,Sun,Jan,15,Senior,Low Spend,2,60,Beauty,Male
+1,1,2023-05-16,Tue,May,16,Adult,Med Spend,3,150,Beauty,Female
+1,1,2023-01-20,Fri,Jan,20,Youth Adult,Low Spend,1,50,Beauty,Male
+1,1,2023-09-19,Tue,Sep,19,Youth Adult,Low Spend,4,100,Electronics,Male
+1,1,2023-01-23,Mon,Jan,23,Adult,Med Spend,4,120,Electronics,Female
+1,1,2023-12-29,Fri,Dec,29,Senior,Low Spend,4,100,Electronics,Female
+1,1,2023-12-07,Thu,Dec,7,Adult,High Spend,1,500,Electronics,Male
+1,1,2023-07-26,Wed,Jul,26,Senior,High Spend,2,600,Beauty,Male
+1,1,2023-10-19,Thu,Oct,19,Youth Adult,High Spend,1,300,Beauty,Male
+1,1,2023-06-04,Sun,Jun,4,Youth,Low Spend,1,50,Electronics,Female
+1,1,2023-01-03,Tue,Jan,3,Youth Adult,High Spend,2,600,Beauty,Female
+1,1,2023-05-13,Sat,May,13,Senior,Med Spend,4,200,Beauty,Female
+1,1,2023-11-23,Thu,Nov,23,Adult,High Spend,1,300,Electronics,Female
+1,1,2023-03-19,Sun,Mar,19,Adult,Low Spend,1,30,Electronics,Female
+1,1,2023-08-01,Tue,Aug,1,Youth Adult,High Spend,1,500,Electronics,Female
+1,1,2023-10-22,Sun,Oct,22,Senior,High Spend,3,900,Clothing,Female
+1,1,2023-09-02,Sat,Sep,2,Senior,High Spend,4,1200,Beauty,Male
+1,1,2023-07-19,Wed,Jul,19,Youth Adult,Med Spend,4,200,Electronics,Female
+1,1,2023-05-20,Sat,May,20,Adult,Low Spend,2,50,Electronics,Female
+1,1,2023-09-06,Wed,Sep,6,Senior,Med Spend,4,200,Clothing,Female
+1,1,2023-01-30,Mon,Jan,30,Youth Adult,Low Spend,3,90,Electronics,Male
+1,1,2023-12-03,Sun,Dec,3,Adult,High Spend,2,600,Electronics,Female
+1,1,2023-12-27,Wed,Dec,27,Senior,High Spend,2,600,Electronics,Female
+1,1,2023-07-03,Mon,Jul,3,Youth Adult,Med Spend,4,200,Electronics,Male
+1,1,2023-01-24,Tue,Jan,24,Senior,High Spend,4,2000,Beauty,Female
+1,1,2023-11-19,Sun,Nov,19,Youth Adult,Low Spend,2,100,Beauty,Female
+1,1,2023-03-20,Mon,Mar,20,Youth Adult,High Spend,4,1200,Clothing,Male
+1,1,2023-01-26,Thu,Jan,26,Senior,High Spend,3,1500,Beauty,Female
+1,1,2023-04-19,Wed,Apr,19,Senior,Med Spend,3,150,Clothing,Male
+1,1,2023-05-23,Tue,May,23,Youth Adult,High Spend,4,1200,Clothing,Male
+1,1,2023-05-07,Sun,May,7,Adult,Low Spend,1,25,Electronics,Male
+1,1,2023-01-11,Wed,Jan,11,Adult,Low Spend,3,90,Clothing,Female
+1,1,2023-02-28,Tue,Feb,28,Adult,Low Spend,1,30,Clothing,Female
+1,1,2023-07-08,Sat,Jul,8,Senior,Low Spend,2,100,Electronics,Male
+1,1,2023-10-05,Thu,Oct,5,Adult,High Spend,1,500,Clothing,Male
+1,1,2023-02-04,Sat,Feb,4,Senior,Med Spend,4,120,Beauty,Female
+1,1,2023-06-11,Sun,Jun,11,Senior,High Spend,2,1000,Electronics,Male
+1,1,2023-04-15,Sat,Apr,15,Senior,Med Spend,4,200,Beauty,Female
+1,1,2023-12-10,Sun,Dec,10,Adult,High Spend,4,1200,Electronics,Female
+1,1,2023-06-11,Sun,Jun,11,Adult,High Spend,1,300,Clothing,Male
+1,1,2023-01-05,Thu,Jan,5,Senior,Low Spend,1,50,Electronics,Female
+1,1,2023-01-05,Thu,Jan,5,Youth Adult,Low Spend,2,50,Beauty,Male
+1,1,2023-05-20,Sat,May,20,Adult,High Spend,2,600,Clothing,Male
+1,1,2023-12-18,Mon,Dec,18,Youth Adult,High Spend,3,900,Electronics,Female
+1,1,2023-11-21,Tue,Nov,21,Senior,High Spend,3,900,Electronics,Male
+1,1,2023-01-23,Mon,Jan,23,Youth Adult,High Spend,4,2000,Clothing,Female
+1,1,2023-07-09,Sun,Jul,9,Senior,Low Spend,3,75,Clothing,Male
+1,1,2023-10-26,Thu,Oct,26,Senior,High Spend,2,600,Clothing,Male
+1,1,2023-07-06,Thu,Jul,6,Youth Adult,High Spend,4,2000,Beauty,Male
+1,1,2023-05-08,Mon,May,8,Senior,High Spend,3,1500,Clothing,Female
+1,1,2023-11-14,Tue,Nov,14,Adult,Low Spend,4,100,Electronics,Female
+1,1,2023-03-21,Tue,Mar,21,Youth Adult,High Spend,4,1200,Clothing,Male
+1,1,2023-06-20,Tue,Jun,20,Senior,Low Spend,4,100,Electronics,Male
+1,1,2023-07-30,Sun,Jul,30,Senior,Med Spend,3,150,Electronics,Female
+1,1,2023-03-23,Thu,Mar,23,Adult,Med Spend,3,150,Clothing,Male
+1,1,2023-08-24,Thu,Aug,24,Senior,High Spend,4,1200,Electronics,Male
+1,1,2023-06-06,Tue,Jun,6,Senior,High Spend,4,1200,Electronics,Female
+1,1,2023-04-09,Sun,Apr,9,Adult,Low Spend,1,25,Electronics,Female
+2,2,2023-03-01,Wed,Mar,1,Senior,Low Spend,6,160,Beauty,Female
+1,1,2023-11-02,Thu,Nov,2,Adult,High Spend,3,1500,Electronics,Female
+1,1,2023-03-05,Sun,Mar,5,Senior,Med Spend,4,120,Beauty,Female
+1,1,2023-06-17,Sat,Jun,17,Youth Adult,Low Spend,1,50,Beauty,Female
+1,1,2023-10-11,Wed,Oct,11,Adult,Med Spend,4,200,Electronics,Female
+1,1,2023-03-07,Tue,Mar,7,Senior,High Spend,4,2000,Clothing,Male
+1,1,2023-08-04,Fri,Aug,4,Senior,Low Spend,2,100,Beauty,Female
+1,1,2023-12-07,Thu,Dec,7,Adult,High Spend,3,900,Clothing,Male
+1,1,2023-05-27,Sat,May,27,Senior,High Spend,4,2000,Clothing,Female
+1,1,2023-04-20,Thu,Apr,20,Adult,High Spend,4,2000,Clothing,Male
+1,1,2023-11-21,Tue,Nov,21,Senior,Low Spend,2,60,Beauty,Female
+1,1,2023-11-14,Tue,Nov,14,Adult,High Spend,3,900,Clothing,Male
+1,1,2023-06-21,Wed,Jun,21,Youth Adult,Low Spend,4,100,Electronics,Female
+1,1,2023-05-01,Mon,May,1,Youth Adult,Low Spend,1,25,Clothing,Female
+1,1,2023-04-26,Wed,Apr,26,Adult,Low Spend,2,60,Electronics,Male
+1,1,2023-07-24,Mon,Jul,24,Adult,High Spend,2,1000,Electronics,Male
+2,2,2023-04-23,Sun,Apr,23,Senior,Low Spend,6,180,Clothing,Female
+1,1,2023-04-01,Sat,Apr,1,Adult,High Spend,4,1200,Beauty,Female
+1,1,2023-08-15,Tue,Aug,15,Senior,Low Spend,2,100,Clothing,Male
+1,1,2023-09-16,Sat,Sep,16,Youth Adult,Low Spend,4,100,Electronics,Female
+1,1,2023-08-19,Sat,Aug,19,Senior,High Spend,1,500,Electronics,Male
+1,1,2023-05-07,Sun,May,7,Senior,Med Spend,4,120,Electronics,Female
+1,1,2023-03-25,Sat,Mar,25,Senior,High Spend,1,500,Electronics,Female
+1,1,2023-11-08,Wed,Nov,8,Senior,Med Spend,4,120,Electronics,Male
+1,1,2023-02-19,Sun,Feb,19,Youth Adult,High Spend,4,2000,Beauty,Male
+1,1,2023-01-31,Tue,Jan,31,Youth Adult,Med Spend,4,200,Electronics,Female
+1,1,2023-10-06,Fri,Oct,6,Senior,High Spend,3,1500,Electronics,Male
+1,1,2023-12-06,Wed,Dec,6,Senior,High Spend,2,1000,Electronics,Male
+1,1,2023-03-18,Sat,Mar,18,Senior,Med Spend,4,120,Clothing,Female
+1,1,2023-10-02,Mon,Oct,2,Senior,Med Spend,4,120,Clothing,Male
+1,1,2023-12-18,Mon,Dec,18,Senior,Low Spend,2,50,Beauty,Female
+1,1,2023-06-05,Mon,Jun,5,Youth Adult,Low Spend,1,50,Electronics,Female
+1,1,2023-08-27,Sun,Aug,27,Senior,Med Spend,3,150,Electronics,Male
+1,1,2023-01-04,Wed,Jan,4,Adult,High Spend,2,1000,Beauty,Male
+1,1,2023-08-08,Tue,Aug,8,Senior,High Spend,4,1200,Clothing,Female
+1,1,2023-02-11,Sat,Feb,11,Senior,High Spend,2,1000,Electronics,Male
+1,1,2023-07-19,Wed,Jul,19,Adult,Low Spend,2,60,Electronics,Female
+1,1,2023-06-04,Sun,Jun,4,Senior,Low Spend,1,30,Beauty,Male
+1,1,2023-10-10,Tue,Oct,10,Adult,Med Spend,4,200,Electronics,Female
+1,1,2023-12-16,Sat,Dec,16,Senior,Low Spend,1,30,Electronics,Female
+1,1,2023-07-15,Sat,Jul,15,Youth Adult,High Spend,3,1500,Clothing,Female
+1,1,2023-01-20,Fri,Jan,20,Youth Adult,Low Spend,3,75,Clothing,Male
+1,1,2023-11-25,Sat,Nov,25,Senior,Low Spend,2,50,Beauty,Male
+1,1,2023-04-02,Sun,Apr,2,Senior,Med Spend,3,150,Electronics,Male
+1,1,2023-06-19,Mon,Jun,19,Senior,Med Spend,4,120,Clothing,Female
+1,1,2023-11-16,Thu,Nov,16,Youth Adult,High Spend,3,1500,Electronics,Male
+1,1,2023-01-01,Sun,Jan,1,Adult,High Spend,4,1200,Clothing,Female
+1,1,2023-08-15,Tue,Aug,15,Senior,High Spend,1,500,Clothing,Male
+1,1,2023-03-17,Fri,Mar,17,Senior,Low Spend,4,100,Clothing,Female
+1,1,2023-07-29,Sat,Jul,29,Senior,High Spend,1,500,Beauty,Male
+1,1,2023-10-03,Tue,Oct,3,Senior,High Spend,4,1200,Beauty,Male
+1,1,2023-02-09,Thu,Feb,9,Senior,High Spend,2,600,Clothing,Female
+1,1,2023-03-12,Sun,Mar,12,Senior,Low Spend,1,25,Clothing,Male
+1,1,2023-12-28,Thu,Dec,28,Senior,High Spend,4,2000,Clothing,Female
+1,1,2023-02-02,Thu,Feb,2,Senior,Med Spend,3,150,Electronics,Male
+1,1,2023-07-28,Fri,Jul,28,Senior,Med Spend,3,150,Electronics,Female
+1,1,2023-02-01,Wed,Feb,1,Senior,High Spend,3,1500,Clothing,Female
+1,1,2023-07-19,Wed,Jul,19,Senior,High Spend,3,1500,Electronics,Male
+1,1,2023-09-07,Thu,Sep,7,Senior,Low Spend,2,100,Clothing,Female
+1,1,2023-08-12,Sat,Aug,12,Youth Adult,Med Spend,3,150,Electronics,Female
+1,1,2023-07-19,Wed,Jul,19,Senior,High Spend,1,300,Electronics,Female
+1,1,2023-07-27,Thu,Jul,27,Senior,High Spend,2,600,Clothing,Female
+1,1,2023-10-01,Sun,Oct,1,Youth Adult,High Spend,1,500,Clothing,Female
+1,1,2023-07-21,Fri,Jul,21,Youth Adult,High Spend,2,1000,Electronics,Female
+1,1,2023-12-06,Wed,Dec,6,Senior,Low Spend,2,50,Beauty,Female
+1,1,2023-05-14,Sun,May,14,Senior,High Spend,1,500,Clothing,Female
+1,1,2023-08-29,Tue,Aug,29,Adult,Low Spend,1,30,Beauty,Male
+1,1,2023-10-04,Wed,Oct,4,Senior,High Spend,4,2000,Clothing,Female
+1,1,2023-11-29,Wed,Nov,29,Adult,Low Spend,1,25,Beauty,Male
+1,1,2023-02-05,Sun,Feb,5,Youth Adult,Med Spend,4,200,Beauty,Female
+1,1,2023-01-16,Mon,Jan,16,Adult,High Spend,4,2000,Beauty,Female
+1,1,2023-11-15,Wed,Nov,15,Youth Adult,Low Spend,1,30,Beauty,Male
+1,1,2023-08-31,Thu,Aug,31,Senior,Low Spend,2,50,Clothing,Female
+1,1,2023-02-28,Tue,Feb,28,Adult,Low Spend,2,50,Clothing,Male
+1,1,2023-06-09,Fri,Jun,9,Senior,Med Spend,4,200,Clothing,Male
+1,1,2023-06-08,Thu,Jun,8,Youth Adult,High Spend,1,500,Beauty,Male
+1,1,2023-12-23,Sat,Dec,23,Youth Adult,Low Spend,1,25,Electronics,Female
+1,1,2023-10-24,Tue,Oct,24,Senior,Low Spend,2,100,Electronics,Male
+2,2,2023-05-05,Fri,May,5,Youth Adult,Low Spend,2,100,Electronics,Male
+1,1,2023-08-26,Sat,Aug,26,Adult,Low Spend,1,30,Electronics,Male
+1,1,2023-02-11,Sat,Feb,11,Adult,Low Spend,1,25,Clothing,Male
+1,1,2023-04-29,Sat,Apr,29,Adult,High Spend,2,1000,Beauty,Female
+1,1,2023-12-22,Fri,Dec,22,Senior,High Spend,2,1000,Beauty,Male
+1,1,2023-11-15,Wed,Nov,15,Senior,Low Spend,4,100,Electronics,Male
+1,1,2023-06-09,Fri,Jun,9,Adult,Med Spend,4,120,Electronics,Female
+1,1,2023-10-22,Sun,Oct,22,Adult,Low Spend,1,50,Clothing,Male
+1,1,2023-12-13,Wed,Dec,13,Youth Adult,Low Spend,2,50,Electronics,Male
+1,1,2023-07-23,Sun,Jul,23,Youth Adult,High Spend,4,2000,Electronics,Male
+1,1,2023-10-31,Tue,Oct,31,Adult,Low Spend,3,90,Clothing,Male
+1,1,2023-12-20,Wed,Dec,20,Senior,Med Spend,3,150,Electronics,Male
+1,1,2023-12-23,Sat,Dec,23,Adult,High Spend,1,500,Beauty,Male
+1,1,2023-03-03,Fri,Mar,3,Adult,Med Spend,4,200,Beauty,Female
+1,1,2023-06-27,Tue,Jun,27,Senior,High Spend,3,900,Beauty,Female
+1,1,2023-09-30,Sat,Sep,30,Senior,High Spend,4,2000,Clothing,Female
+1,1,2023-09-17,Sun,Sep,17,Senior,High Spend,1,300,Beauty,Female
+1,1,2023-06-24,Sat,Jun,24,Senior,Med Spend,4,120,Beauty,Male
+1,1,2023-01-07,Sat,Jan,7,Adult,Low Spend,3,75,Clothing,Male
+1,1,2023-09-08,Fri,Sep,8,Senior,Low Spend,2,100,Electronics,Male
+1,1,2023-08-10,Thu,Aug,10,Youth Adult,Med Spend,4,200,Clothing,Male
+1,1,2023-07-05,Wed,Jul,5,Senior,Low Spend,1,30,Beauty,Female
+1,1,2023-11-22,Wed,Nov,22,Adult,Low Spend,4,100,Clothing,Male
+1,1,2023-08-24,Thu,Aug,24,Senior,Low Spend,1,30,Electronics,Male
+1,1,2023-12-29,Fri,Dec,29,Youth Adult,High Spend,3,1500,Beauty,Female
+1,1,2023-09-25,Mon,Sep,25,Senior,Low Spend,2,100,Beauty,Female
+1,1,2023-11-12,Sun,Nov,12,Youth Adult,Low Spend,3,75,Electronics,Male
+1,1,2023-08-27,Sun,Aug,27,Senior,Low Spend,3,75,Clothing,Female
+1,1,2023-10-31,Tue,Oct,31,Youth Adult,Med Spend,4,200,Beauty,Male
+1,1,2023-09-25,Mon,Sep,25,Senior,Low Spend,3,90,Clothing,Female
+1,1,2023-06-01,Thu,Jun,1,Youth Adult,Low Spend,2,50,Clothing,Male
+1,1,2023-09-19,Tue,Sep,19,Senior,Low Spend,2,60,Beauty,Male
+1,1,2023-03-23,Thu,Mar,23,Youth Adult,High Spend,3,1500,Beauty,Female
+1,1,2023-09-01,Fri,Sep,1,Senior,High Spend,2,600,Clothing,Male
+1,1,2024-01-01,Mon,Jan,1,Senior,Low Spend,1,30,Electronics,Male
+1,1,2023-07-16,Sun,Jul,16,Senior,Low Spend,4,100,Clothing,Female
+1,1,2023-08-28,Mon,Aug,28,Senior,Low Spend,3,90,Clothing,Female
+1,1,2023-03-07,Tue,Mar,7,Senior,Low Spend,2,50,Electronics,Male
+1,1,2023-02-25,Sat,Feb,25,Adult,High Spend,3,900,Electronics,Male
+1,1,2023-03-25,Sat,Mar,25,Adult,Low Spend,1,25,Clothing,Female
+1,1,2023-02-05,Sun,Feb,5,Senior,Low Spend,1,30,Beauty,Male
+1,1,2023-03-20,Mon,Mar,20,Youth Adult,Med Spend,3,150,Clothing,Male
+1,1,2023-05-06,Sat,May,6,Senior,Med Spend,4,200,Electronics,Male
+1,1,2023-02-14,Tue,Feb,14,Senior,High Spend,1,300,Electronics,Male
+1,1,2023-08-19,Sat,Aug,19,Senior,Low Spend,2,100,Electronics,Female
+1,1,2023-06-22,Thu,Jun,22,Senior,Med Spend,3,150,Clothing,Female
+1,1,2023-01-15,Sun,Jan,15,Youth Adult,Low Spend,4,100,Electronics,Male
+1,1,2023-09-11,Mon,Sep,11,Senior,High Spend,4,2000,Beauty,Male
+1,1,2023-06-16,Fri,Jun,16,Senior,Med Spend,4,200,Beauty,Male
+1,1,2023-04-19,Wed,Apr,19,Youth Adult,Low Spend,1,50,Clothing,Female
+1,1,2023-07-01,Sat,Jul,1,Youth,Low Spend,3,90,Beauty,Male
+1,1,2023-05-13,Sat,May,13,Senior,High Spend,2,600,Electronics,Male
+1,1,2023-06-24,Sat,Jun,24,Youth Adult,High Spend,4,1200,Electronics,Female
+1,1,2023-11-02,Thu,Nov,2,Adult,Low Spend,4,100,Electronics,Male
+1,1,2023-12-26,Tue,Dec,26,Senior,High Spend,2,600,Clothing,Female
+1,1,2023-05-22,Mon,May,22,Youth Adult,High Spend,3,1500,Beauty,Male
+1,1,2023-01-06,Fri,Jan,6,Senior,High Spend,1,500,Clothing,Male
+1,1,2023-04-08,Sat,Apr,8,Youth,High Spend,4,1200,Electronics,Female
+1,1,2023-02-13,Mon,Feb,13,Senior,Low Spend,3,75,Clothing,Female
+1,1,2023-05-04,Thu,May,4,Adult,Low Spend,2,50,Clothing,Male
+1,1,2023-09-08,Fri,Sep,8,Adult,Low Spend,2,50,Electronics,Male
+1,1,2023-10-12,Thu,Oct,12,Senior,High Spend,1,300,Clothing,Female
+1,1,2023-12-20,Wed,Dec,20,Youth Adult,Low Spend,1,50,Clothing,Male
+1,1,2023-12-31,Sun,Dec,31,Senior,Low Spend,2,50,Electronics,Male
+1,1,2023-09-09,Sat,Sep,9,Youth Adult,Low Spend,2,100,Electronics,Male
+1,1,2023-02-17,Fri,Feb,17,Senior,Low Spend,3,90,Clothing,Female
+1,1,2023-04-24,Mon,Apr,24,Youth Adult,Low Spend,2,50,Electronics,Female
+1,1,2023-06-06,Tue,Jun,6,Youth Adult,High Spend,1,500,Electronics,Male
+1,1,2023-12-06,Wed,Dec,6,Youth Adult,High Spend,1,300,Electronics,Female
+1,1,2023-08-31,Thu,Aug,31,Senior,Low Spend,2,60,Beauty,Male
+1,1,2023-09-29,Fri,Sep,29,Youth Adult,Low Spend,4,100,Electronics,Female
+1,1,2023-06-26,Mon,Jun,26,Senior,Low Spend,1,30,Beauty,Male
+1,1,2023-10-09,Mon,Oct,9,Senior,Med Spend,4,120,Clothing,Male
+1,1,2023-06-30,Fri,Jun,30,Youth Adult,Low Spend,1,30,Clothing,Female
+1,1,2023-08-21,Mon,Aug,21,Youth Adult,High Spend,2,1000,Beauty,Male
+1,1,2023-05-19,Fri,May,19,Youth Adult,High Spend,1,300,Electronics,Male
+1,1,2023-06-06,Tue,Jun,6,Senior,Low Spend,2,50,Electronics,Female
+1,1,2023-05-09,Tue,May,9,Adult,High Spend,1,500,Electronics,Male
+1,1,2023-06-11,Sun,Jun,11,Senior,Low Spend,4,100,Clothing,Male
+1,1,2023-03-03,Fri,Mar,3,Senior,Low Spend,4,100,Electronics,Female
+1,1,2023-12-20,Wed,Dec,20,Adult,Low Spend,2,50,Electronics,Male
+1,1,2023-04-21,Fri,Apr,21,Senior,Low Spend,1,50,Electronics,Male
+1,1,2023-05-22,Mon,May,22,Senior,Med Spend,4,120,Clothing,Female
+1,1,2023-04-27,Thu,Apr,27,Senior,Med Spend,4,200,Beauty,Female
+1,1,2023-04-02,Sun,Apr,2,Senior,High Spend,1,300,Beauty,Male
+1,1,2023-12-29,Fri,Dec,29,Senior,High Spend,4,1200,Beauty,Male
+1,1,2023-10-01,Sun,Oct,1,Youth Adult,High Spend,1,300,Electronics,Male
+1,1,2023-01-24,Tue,Jan,24,Senior,Med Spend,3,150,Beauty,Male
+1,1,2023-01-28,Sat,Jan,28,Youth Adult,Low Spend,3,90,Electronics,Male
+1,1,2023-10-11,Wed,Oct,11,Senior,High Spend,1,500,Electronics,Female
+1,1,2023-05-30,Tue,May,30,Youth Adult,Low Spend,3,90,Beauty,Female
+1,1,2023-12-24,Sun,Dec,24,Adult,Low Spend,1,50,Electronics,Female
+1,1,2023-03-06,Mon,Mar,6,Senior,Med Spend,4,200,Electronics,Female
+1,1,2023-09-09,Sat,Sep,9,Youth Adult,Low Spend,2,50,Beauty,Female
+1,1,2023-02-22,Wed,Feb,22,Youth Adult,Low Spend,3,75,Beauty,Female
+1,1,2023-01-07,Sat,Jan,7,Senior,Low Spend,3,75,Electronics,Male
+1,1,2023-10-21,Sat,Oct,21,Senior,Low Spend,1,50,Electronics,Male
+1,1,2023-05-26,Fri,May,26,Adult,High Spend,3,900,Beauty,Male
+1,1,2023-08-29,Tue,Aug,29,Senior,Low Spend,2,100,Beauty,Male
+1,1,2023-09-03,Sun,Sep,3,Youth Adult,High Spend,1,300,Electronics,Male
+1,1,2023-08-14,Mon,Aug,14,Youth Adult,Low Spend,1,30,Electronics,Male
+1,1,2023-01-27,Fri,Jan,27,Youth Adult,Low Spend,3,75,Beauty,Female
+1,1,2023-05-10,Wed,May,10,Senior,Med Spend,4,200,Clothing,Male
+1,1,2023-02-07,Tue,Feb,7,Senior,Med Spend,4,200,Beauty,Male
+1,1,2023-12-18,Mon,Dec,18,Senior,High Spend,1,300,Electronics,Female
+1,1,2023-03-18,Sat,Mar,18,Senior,High Spend,3,1500,Clothing,Male
+1,1,2023-06-05,Mon,Jun,5,Senior,Low Spend,2,50,Clothing,Male
+1,1,2023-02-13,Mon,Feb,13,Youth Adult,Low Spend,1,25,Beauty,Male
+1,1,2023-11-07,Tue,Nov,7,Adult,High Spend,3,900,Clothing,Male
+1,1,2023-07-14,Fri,Jul,14,Senior,Low Spend,1,25,Clothing,Male
+1,1,2023-08-19,Sat,Aug,19,Youth Adult,High Spend,3,1500,Clothing,Male
+1,1,2023-10-29,Sun,Oct,29,Senior,Low Spend,2,60,Electronics,Female
+1,1,2023-11-14,Tue,Nov,14,Senior,Low Spend,1,50,Beauty,Female
+1,1,2023-01-31,Tue,Jan,31,Youth Adult,High Spend,3,900,Clothing,Male
+1,1,2023-11-09,Thu,Nov,9,Youth Adult,Med Spend,4,200,Clothing,Male
+1,1,2023-04-17,Mon,Apr,17,Senior,Low Spend,1,25,Beauty,Male
+1,1,2023-11-17,Fri,Nov,17,Senior,High Spend,3,900,Clothing,Female
+1,1,2023-02-08,Wed,Feb,8,Adult,Low Spend,3,75,Electronics,Female
+1,1,2023-08-19,Sat,Aug,19,Youth Adult,Low Spend,2,60,Electronics,Female
+1,1,2023-12-19,Tue,Dec,19,Senior,Low Spend,3,90,Beauty,Female
+1,1,2023-11-01,Wed,Nov,1,Youth Adult,High Spend,1,300,Clothing,Female
+1,1,2023-01-17,Tue,Jan,17,Senior,High Spend,2,1000,Clothing,Female
+1,1,2023-12-28,Thu,Dec,28,Senior,Low Spend,1,25,Electronics,Female
+1,1,2023-12-18,Mon,Dec,18,Senior,High Spend,2,1000,Beauty,Female
+1,1,2023-11-17,Fri,Nov,17,Senior,Low Spend,3,90,Beauty,Male
+1,1,2023-12-05,Tue,Dec,5,Adult,Med Spend,3,150,Electronics,Female
+1,1,2023-04-12,Wed,Apr,12,Senior,Med Spend,4,120,Electronics,Male
+1,1,2023-07-27,Thu,Jul,27,Senior,High Spend,1,500,Electronics,Female
+1,1,2023-04-29,Sat,Apr,29,Youth Adult,Low Spend,2,60,Clothing,Female
+1,1,2023-04-05,Wed,Apr,5,Senior,High Spend,3,900,Electronics,Male
+1,1,2023-10-29,Sun,Oct,29,Youth Adult,Low Spend,2,50,Electronics,Female
+1,1,2023-04-30,Sun,Apr,30,Senior,Low Spend,1,30,Clothing,Female
+1,1,2023-10-29,Sun,Oct,29,Youth Adult,Low Spend,4,100,Beauty,Female
+1,1,2023-10-13,Fri,Oct,13,Youth Adult,Low Spend,3,75,Electronics,Female
+1,1,2023-11-22,Wed,Nov,22,Youth Adult,Low Spend,2,100,Beauty,Female
+1,1,2023-08-18,Fri,Aug,18,Adult,Low Spend,4,100,Clothing,Male
+1,1,2023-06-28,Wed,Jun,28,Senior,High Spend,1,300,Beauty,Male
+1,1,2023-12-10,Sun,Dec,10,Adult,Low Spend,2,100,Clothing,Male
+1,1,2023-02-12,Sun,Feb,12,Youth,High Spend,1,500,Clothing,Female
+1,1,2023-08-09,Wed,Aug,9,Adult,Med Spend,3,150,Clothing,Female
+1,1,2023-10-16,Mon,Oct,16,Senior,Low Spend,4,100,Electronics,Female
+1,1,2023-12-14,Thu,Dec,14,Youth Adult,High Spend,2,600,Clothing,Male
+1,1,2023-12-02,Sat,Dec,2,Senior,High Spend,3,1500,Electronics,Female
+1,1,2023-12-23,Sat,Dec,23,Senior,Low Spend,4,100,Clothing,Female
+1,1,2023-09-29,Fri,Sep,29,Youth Adult,High Spend,4,2000,Clothing,Female
+1,1,2023-08-17,Thu,Aug,17,Senior,High Spend,3,900,Electronics,Female
+1,1,2023-04-16,Sun,Apr,16,Adult,High Spend,1,300,Clothing,Female
+1,1,2023-08-21,Mon,Aug,21,Senior,High Spend,1,300,Electronics,Male
+1,1,2023-05-10,Wed,May,10,Senior,High Spend,4,2000,Clothing,Male
+1,1,2023-04-13,Thu,Apr,13,Senior,Low Spend,2,100,Beauty,Male
+1,1,2023-12-25,Mon,Dec,25,Senior,High Spend,4,1200,Electronics,Female
+1,1,2023-11-07,Tue,Nov,7,Youth Adult,Low Spend,2,50,Electronics,Female
+1,1,2023-12-17,Sun,Dec,17,Senior,High Spend,1,300,Clothing,Female
+1,1,2023-11-04,Sat,Nov,4,Adult,High Spend,1,500,Electronics,Female
+1,1,2023-09-05,Tue,Sep,5,Senior,High Spend,1,500,Clothing,Female
+1,1,2023-08-12,Sat,Aug,12,Senior,High Spend,2,1000,Beauty,Male
+1,1,2023-08-01,Tue,Aug,1,Adult,Med Spend,4,120,Beauty,Male
+1,1,2023-09-01,Fri,Sep,1,Senior,Low Spend,1,25,Beauty,Male
+1,1,2023-08-18,Fri,Aug,18,Senior,High Spend,3,1500,Electronics,Female
+1,1,2023-12-26,Tue,Dec,26,Youth Adult,Low Spend,1,30,Clothing,Male
+1,1,2023-03-03,Fri,Mar,3,Senior,Med Spend,4,120,Clothing,Female
+1,1,2023-04-09,Sun,Apr,9,Adult,High Spend,3,900,Electronics,Male
+1,1,2023-09-05,Tue,Sep,5,Senior,Low Spend,1,30,Electronics,Male
+1,1,2023-01-08,Sun,Jan,8,Senior,Low Spend,1,25,Electronics,Female
+1,1,2023-05-21,Sun,May,21,Senior,High Spend,3,900,Electronics,Male
+1,1,2023-02-03,Fri,Feb,3,Youth Adult,Low Spend,1,30,Beauty,Male
+1,1,2023-07-25,Tue,Jul,25,Youth Adult,High Spend,1,500,Beauty,Male
+1,1,2023-05-08,Mon,May,8,Senior,High Spend,4,2000,Electronics,Male
+1,1,2023-11-13,Mon,Nov,13,Senior,Low Spend,1,25,Clothing,Female
+1,1,2023-04-26,Wed,Apr,26,Senior,Low Spend,3,90,Beauty,Male
+1,1,2023-09-25,Mon,Sep,25,Senior,High Spend,3,900,Electronics,Female
+1,1,2023-05-30,Tue,May,30,Youth Adult,Low Spend,2,50,Electronics,Female
+1,1,2023-05-28,Sun,May,28,Senior,Low Spend,3,75,Clothing,Female
+1,1,2023-05-25,Thu,May,25,Senior,High Spend,2,1000,Beauty,Female
+1,1,2023-12-26,Tue,Dec,26,Adult,Low Spend,2,100,Clothing,Female
+1,1,2023-06-29,Thu,Jun,29,Senior,Low Spend,4,100,Beauty,Male
+1,1,2023-02-17,Fri,Feb,17,Youth Adult,High Spend,4,1200,Beauty,Male
+1,1,2023-12-11,Mon,Dec,11,Senior,Low Spend,1,50,Electronics,Male
+1,1,2023-03-20,Mon,Mar,20,Adult,High Spend,3,900,Beauty,Female
+1,1,2023-05-19,Fri,May,19,Senior,Low Spend,2,50,Beauty,Male
+1,1,2023-10-19,Thu,Oct,19,Senior,Low Spend,2,60,Clothing,Male
+1,1,2023-05-06,Sat,May,6,Adult,Low Spend,2,60,Electronics,Male
+1,1,2023-02-22,Wed,Feb,22,Senior,Low Spend,2,50,Electronics,Male
+1,1,2023-02-24,Fri,Feb,24,Senior,High Spend,3,1500,Beauty,Male
+1,1,2023-06-15,Thu,Jun,15,Adult,Low Spend,2,100,Beauty,Female
+1,1,2023-09-26,Tue,Sep,26,Senior,Low Spend,2,100,Electronics,Female
+1,1,2023-11-02,Thu,Nov,2,Senior,Low Spend,3,90,Clothing,Female
+1,1,2023-06-04,Sun,Jun,4,Youth Adult,Low Spend,1,50,Clothing,Female
+1,1,2023-09-09,Sat,Sep,9,Adult,Low Spend,1,50,Beauty,Female
+1,1,2023-08-02,Wed,Aug,2,Senior,Low Spend,2,50,Electronics,Female
+1,1,2023-10-23,Mon,Oct,23,Senior,High Spend,1,500,Beauty,Female
+1,1,2023-02-20,Mon,Feb,20,Senior,High Spend,2,1000,Electronics,Male
+1,1,2023-08-09,Wed,Aug,9,Senior,Med Spend,4,200,Clothing,Female
+1,1,2023-12-05,Tue,Dec,5,Senior,Low Spend,1,25,Beauty,Female
+1,1,2023-04-01,Sat,Apr,1,Adult,High Spend,4,2000,Beauty,Male
+1,1,2023-08-15,Tue,Aug,15,Senior,Med Spend,4,120,Electronics,Female
+1,1,2023-08-29,Tue,Aug,29,Senior,High Spend,1,500,Clothing,Male
