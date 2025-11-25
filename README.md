@@ -2,7 +2,7 @@
 
 # Tools
 
-snowflake sql
+google looker- dashboard
 
 # Variable Discription
 
